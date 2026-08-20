@@ -1,0 +1,516 @@
+[
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/i0DWwUYgvo",
+    "title": "Inginer CCIA Junior",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:11:30Z",
+    "status": "scraped",
+    "tags": [
+      "Administrare de sistem",
+      "Rețele"
+    ],
+    "matchPercentage": 55,
+    "reason": "CCIA = Comunicații, Calculatoare și Inginerie Automatică; rol junior potrivit pentru studenți, implică rețele și automatizări"
+  },
+  {
+    "url": "https://tremend.com/career/python-developer-specialist-energy-commodities-2/",
+    "title": "Python Developer- Specialist- Energy &amp; Commodities",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Programare web",
+      "Vibe coding"
+    ],
+    "matchPercentage": 45,
+    "reason": "Python nu e competență principală din plan, dar am cunoștințe de programare generală; nivelul Specialist e mai ridicat"
+  },
+  {
+    "url": "https://tremend.com/career/python-developer-specialist-energy-commodities-3/",
+    "title": "Python Developer- Specialist- Energy &amp; Commodities",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Programare web",
+      "Vibe coding"
+    ],
+    "matchPercentage": 45,
+    "reason": "Python nu e competență principală, dar am baze solide de programare; nivelul Specialist e mai ridicat"
+  },
+  {
+    "url": "https://tremend.com/career/python-developer-specialist-energy-commodities-4/",
+    "title": "Python Developer- Specialist- Energy &amp; Commodities",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Programare web",
+      "Vibe coding"
+    ],
+    "matchPercentage": 45,
+    "reason": "Python nu e competență principală, dar am baze solide de programare; nivelul Specialist e mai ridicat"
+  },
+  {
+    "url": "https://tremend.com/career/python-developer-specialist-energy-commodities-5/",
+    "title": "Python Developer- Specialist- Energy &amp; Commodities",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Brașov"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Programare web",
+      "Vibe coding"
+    ],
+    "matchPercentage": 45,
+    "reason": "Python nu e competență principală, dar am baze solide de programare; nivelul Specialist e mai ridicat"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/student-programs/#java-training-from-code-to-cloud-with-ai",
+    "title": "☕️ Java Training – from Code to Cloud with AI",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Timișoara",
+      "Târgu Mureș"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:19.326Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "Inteligentă Artificială"
+    ],
+    "matchPercentage": 60,
+    "reason": "Training pentru studenți; combină Java cu Cloud și AI, domenii din planul meu de studiu"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/student-programs/#python-training",
+    "title": "🐍 Python Training",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:19.326Z",
+    "status": "scraped",
+    "tags": [
+      "Inteligentă Artificială",
+      "Vibe coding"
+    ],
+    "matchPercentage": 65,
+    "reason": "Training pentru studenți; Python este fundamental pentru AI/ML și știința datelor"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/alTvSpD2v7",
+    "title": "Specialist Retele IT",
+    "company": "NOVA POWER &amp; GAS S.A.",
+    "location": [
+      "Campia Turzii"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:57Z",
+    "status": "scraped",
+    "tags": [
+      "Administrare de sistem",
+      "Rețele"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de rețea, potrivit cu competențele de administrare sistem și rețea din planul de studiu"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/automation-engineer/",
+    "title": "Automation                                        Engineer",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "DevOps",
+      "Automatizări"
+    ],
+    "matchPercentage": 55,
+    "reason": "Inginerie de automatizări; am competențe în DevOps, automatizări în cloud și RPA"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/ai-machine-learning-engineer/",
+    "title": "Senior AI &amp; Machine Learning Engineer",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "Inteligentă Artificială",
+      "Știința Datelor"
+    ],
+    "matchPercentage": 50,
+    "reason": "Domeniul AI/ML este în planul meu de studiu, dar nivelul Senior cere experiență mai multă"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/senior-cloud-data-engineer/",
+    "title": "Senior Cloud Data Engineer",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "matchPercentage": 50,
+    "reason": "Am cunoștințe de cloud computing și arhitectură aplicații cloud, dar nivelul Senior e peste experiența actuală"
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/senior-security-eng-digital-services/",
+    "title": "Senior Security Engineer",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Târgu Mureș",
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "Criptografie",
+      "Securitate Cibernetică"
+    ],
+    "matchPercentage": 45,
+    "reason": "Am competențe în criptografie și securitate, dar nivelul Senior necesită experiență extinsă"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/bvv1tky7Ih",
+    "title": "SCADA Network &amp; Cybersecurity Engineer",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Bucuresti"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:10:49Z",
+    "status": "scraped",
+    "tags": [
+      "Securitate Cibernetică",
+      "Rețele"
+    ],
+    "matchPercentage": 40,
+    "reason": "Combinație între rețele și securitate cibernetică; am cunoștințe de bază în ambele domenii"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/5PA7JOcQ6d",
+    "title": "SCADA Network &amp; Cybersecurity Engineer",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:10:49Z",
+    "status": "scraped",
+    "tags": [
+      "Securitate Cibernetică",
+      "Criptografie"
+    ],
+    "matchPercentage": 40,
+    "reason": "Rol de inginerie de securitate cibernetică în medii SCADA/OT, foarte specializat în control industrial. Competențele mele de securitate cibernetică și criptografie sunt relevante dar experiența cu sisteme SCADA/OT lipsește. Nivelul de specializare e peste ce oferă planul de învățământ."
+  },
+  {
+    "url": "https://tremend.com/career/quality-engineer-senior-specialist-2/",
+    "title": "Quality Engineer- Senior Specialist",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Programare web"
+    ],
+    "matchPercentage": 30,
+    "reason": "Rol de Quality Engineer la nivel senior. Nu am competențe directe de testare/QA în planul de învățământ. Nivelul Senior e neadecvat pentru un student. Programarea învățată ajută parțial."
+  },
+  {
+    "url": "https://tremend.com/career/quality-engineer-senior-specialist-3/",
+    "title": "Quality Engineer- Senior Specialist",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Programare web"
+    ],
+    "matchPercentage": 30,
+    "reason": "Identic cu jobul din Iași. Rolul e în Cluj-Napoca, avantaj de locație, dar lipsa de competențe QA și nivelul Senior rămân probleme."
+  },
+  {
+    "url": "https://tremend.com/career/quality-engineer-senior-specialist-4/",
+    "title": "Quality Engineer- Senior Specialist",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Programare web"
+    ],
+    "matchPercentage": 25,
+    "reason": "Identic cu celelalte joburi QA. Timișoara e locație secundară, nivelul Senior nepotrivit, competențele QA lipsesc."
+  },
+  {
+    "url": "https://tremend.com/career/quality-engineer-senior-specialist-5/",
+    "title": "Quality Engineer- Senior Specialist",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Brașov"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Programare web"
+    ],
+    "matchPercentage": 25,
+    "reason": "Identic cu celelalte joburi QA. Nivel Senior nepotrivit, lipsa competențelor QA directe."
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/cybersecurity-isms-consultant/",
+    "title": "Cybersecurity Consultant (ISMS)",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Târgu Mureș",
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "Securitate Cibernetică",
+      "Administrare de sistem"
+    ],
+    "matchPercentage": 75,
+    "reason": "Consultanță în securitate cibernetică și sisteme de management al securității informației. Se potrivește direct cu competențele de Securitate Cibernetică și Criptografie, plus Administrare de sistem. Nivelul de consultant e accesibil pentru un student cu cunoștințe solide."
+  },
+  {
+    "url": "https://tremend.com/career/business-analyst-enterprise-risk-analytics-senior-associate-2/",
+    "title": "Business Analyst (Enterprise Risk &amp; Analytics)- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Brașov"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Metode inteligente"
+    ],
+    "matchPercentage": 35,
+    "reason": "Rol de analist de business cu focus pe risk & analytics. Parțial relevant prin competențele de Știința Datelor și metode inteligente de rezolvare a problemelor, dar e un rol de business, nu tehnic."
+  },
+  {
+    "url": "https://tremend.com/career/business-analyst-enterprise-risk-analytics-senior-associate-3/",
+    "title": "Business Analyst (Enterprise Risk &amp; Analytics)- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Metode inteligente"
+    ],
+    "matchPercentage": 35,
+    "reason": "Identic cu jobul din Brașov. Rol de analiză de business, parțial relevant pentru profilul meu tehnic."
+  },
+  {
+    "url": "https://tremend.com/career/business-analyst-enterprise-risk-analytics-senior-associate-4/",
+    "title": "Business Analyst (Enterprise Risk &amp; Analytics)- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Metode inteligente"
+    ],
+    "matchPercentage": 40,
+    "reason": "Identic cu celelalte BA roles. În Cluj-Napoca, avantaj de locație. Competențele de Știința Datelor oferă un punct de intrare."
+  },
+  {
+    "url": "https://tremend.com/career/business-analyst-enterprise-risk-analytics-senior-associate-5/",
+    "title": "Business Analyst (Enterprise Risk &amp; Analytics)- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Metode inteligente"
+    ],
+    "matchPercentage": 35,
+    "reason": "Identic cu celelalte BA roles. Timișoara - locație secundă."
+  },
+  {
+    "url": "https://tremend.com/career/data-analyst-senior-associate-3/",
+    "title": "Data Analyst- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Prelucrarea limbajului natural"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rol de Data Analyst, relevant prin competențele de Știința Datelor și NLP. Nivelul Senior Associate e o provocare dar rolul în sine se potrivește profilului."
+  },
+  {
+    "url": "https://tremend.com/career/data-analyst-senior-associate-4/",
+    "title": "Data Analyst- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Prelucrarea limbajului natural"
+    ],
+    "matchPercentage": 40,
+    "reason": "Identic cu jobul din Cluj. Timișoara e locație secundă."
+  },
+  {
+    "url": "https://tremend.com/career/data-analyst-senior-associate-5/",
+    "title": "Data Analyst- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Brașov"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Prelucrarea limbajului natural"
+    ],
+    "matchPercentage": 40,
+    "reason": "Identic cu celelalte Data Analyst roles. Brașov - locație secundară."
+  },
+  {
+    "url": "https://tremend.com/career/data-analyst-senior-associate-2/",
+    "title": "Data Analyst- Senior Associate",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Prelucrarea limbajului natural"
+    ],
+    "matchPercentage": 40,
+    "reason": "Identic cu celelalte Data Analyst roles. Iași - locație secundară."
+  },
+  {
+    "url": "https://tremend.com/career/business-analyst-cms-dam-aem-specialist-2/",
+    "title": "Business Analyst– CMS/DAM (AEM)- Specialist",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Programare web",
+      "Inginerie Software"
+    ],
+    "matchPercentage": 20,
+    "reason": "Rol de BA specializat în sisteme de management de conținut (Adobe Experience Manager). Foarte nișat, fără legătură directă cu competențele mele tehnice."
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/job-offerings/senior-data-warehouse-business-analytics-consultant/",
+    "title": "Senior Data Analytics Consultant",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:12:18.088Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Metode inteligente"
+    ],
+    "matchPercentage": 30,
+    "reason": "Rol de consultanță în analytics, la nivel senior. Fără descriere disponibilă, dar numele sugerează legătură cu Știința Datelor. Nivelul senior e dificil pentru un student."
+  },
+  {
+    "url": "https://tremend.com/career/data-engineer-specialist-financial-services-3/",
+    "title": "Data Engineer- Specialist- Financial Services",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "location": [
+      "Iași"
+    ],
+    "salary": null,
+    "date": "2026-08-20T11:08:28.817Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "Inginerie Software"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de Data Engineer cu accent pe servicii financiare. Se potrivește cu competențele de Cloud Computing, Inginerie Software și DevOps. Experiența cu blockchain/smart contracts e un avantaj în fintech."
+  }
+]
