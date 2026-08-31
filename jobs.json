@@ -1,509 +1,508 @@
 [
   {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Frontend-Web-Developer_R0118817-1",
-    "title": "Senior Associate Frontend Web Developer",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "url": "https://multijobs.ro/job/junior-support-engineer-cluj-napoca-hybrid/5932",
+    "title": "Junior Support Engineer – Cluj-Napoca, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:27.149Z",
+    "date": "2026-08-30T13:55:32.576Z",
     "status": "scraped",
     "tags": [
-      "Programare web",
-      "Arhitectura cloud"
+      "Administrare sistem",
+      "Networking"
     ],
-    "matchPercentage": 60,
-    "reason": "Angular si AWS se potrivesc cu competentele mele de programare web si cloud, desi nivelul Senior Associate este putin peste statutul de student."
+    "matchPercentage": 25,
+    "reason": "Entry-level IT role in Cluj where admin/networking skills could apply"
   },
   {
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Fullstack-Developer/288610",
-    "title": "Fullstack Developer",
-    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "url": "https://careers.nttdata.ro/nttdataromania/job/Brasov-Web-Developer-with-Angular/1426513633/",
+    "title": "Web Developer with Angular",
+    "company": "NTT DATA ROMANIA S.A.",
     "location": [
-      "Bucuresti, Romania"
+      "Brașov,Iași,Sibiu,Cluj,Timișoara,Remote,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:26.211Z",
+    "date": "2026-08-30T13:55:31.369Z",
     "status": "scraped",
     "tags": [
       "Programare web",
       "Design Patterns"
     ],
-    "matchPercentage": 70,
-    "reason": "Fullstack development este accesibil la nivel mid pentru mine, cu baza solida de programare web si design patterns."
+    "matchPercentage": 40,
+    "reason": "Web development skills align with frontend web role"
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/medior-infra-service-mgmt-specialist-servicenow-developer/99644",
-    "title": "Medior Infra Service Mgmt Specialist (ServiceNow Developer)",
-    "company": "UNICREDIT BANK SA BUCUREŞTI - SUCURSALA BRAŞOV",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:16.158Z",
-    "status": "scraped",
-    "tags": [
-      "RPA",
-      "Administrare sistem"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltare ServiceNow cu workflow-uri si automatizari de procese, compatibila cu mediul meu mid si cu experienta in administrare si automatizare."
-  },
-  {
-    "url": "https://jobs.lenovo.com/careers/JobDetail/Java-Developer-mid-level/77541",
-    "title": "Java Developer (mid-level)",
-    "company": "LENOVO INTERN LINE SRL",
+    "url": "https://career.luxoft.com/jobs/embedded-software-developer-26567",
+    "title": "Embedded Software Developer",
+    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:13.479Z",
+    "date": "2026-08-30T13:55:28.373Z",
     "status": "scraped",
     "tags": [
-      "Design Patterns",
-      "Programare web"
+      "Android Things",
+      "Embedded"
     ],
-    "matchPercentage": 60,
-    "reason": "Nivel mid accesibil; design patterns si programarea server-side din planul de invatamant sunt transferabile la Java."
+    "matchPercentage": 30,
+    "reason": "Embedded systems align with Android Things and IoT knowledge"
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270210/SCOR/Front-End-Developer-(Angular-/-UI/UX)",
-    "title": "Front End Developer (Angular / UI/UX)",
-    "company": "SCOR SRL",
+    "url": "https://careers.ey.com/ey/job/Bucharest-Junior-Penetration-Tester-011171/1417734733/",
+    "title": "Junior Penetration Tester",
+    "company": "EY SOLAR INVESTMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:13.479Z",
+    "date": "2026-08-30T13:55:24.295Z",
     "status": "scraped",
     "tags": [
-      "Programare web",
-      "HCI"
+      "Criptografie",
+      "Securitate Cibernetica"
     ],
-    "matchPercentage": 75,
-    "reason": "Frontend Angular si UX se aliniaza direct la competentele mele de programare web si interactiune om-calculator."
+    "matchPercentage": 55,
+    "reason": "Cybersecurity role matching cryptography and security knowledge"
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270879/Jobs-from-Hipo-in-Timisoara/ServiceNow-Developer-@NTT-DATA",
-    "title": "ServiceNow Developer @NTT DATA",
-    "company": "JOBS UNLIMITED GRUP SRL",
+    "url": "https://multijobs.ro/job/tehnician-it-arad/5701",
+    "title": "Tehnician IT – Arad",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Romania"
+      "Arad, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:57:48.515Z",
-    "status": "scraped",
-    "tags": [
-      "RPA",
-      "Administrare sistem"
-    ],
-    "matchPercentage": 60,
-    "reason": "Dezvoltare ServiceNow cu accent pe automatizarea proceselor si integrari, potrivita pentru un junior cu baze solide de programare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270871/Jobs-from-Hipo-in-Timisoara/RPA-Developer-@DTSE-Romania-(Telekom)",
-    "title": "RPA Developer @DTSE Romania (Telekom)",
-    "company": "JOBS UNLIMITED GRUP SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:48.515Z",
-    "status": "scraped",
-    "tags": [
-      "RPA"
-    ],
-    "matchPercentage": 90,
-    "reason": "Potrivire directa cu competency-matcher-ul perfect: automatizarea proceselor de business (RPA) face parte explicit din planul meu de invatamant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/mid-senior-python-developer-1",
-    "title": "Mid-Senior Python Developer",
-    "company": "HERTZ ASR CONCEPT S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:47.467Z",
-    "status": "scraped",
-    "tags": [
-      "LLM-uri",
-      "NLP"
-    ],
-    "matchPercentage": 65,
-    "reason": "Python remote la nivel mid-senior; experienta cu LLM-uri si NLP implica Python si poate compensa anii mai putini de experienta."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/it-support-specialist-90",
-    "title": "IT Support Specialist",
-    "company": "CALIROM SRL",
-    "location": [
-      "Floresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:10.924Z",
+    "date": "2026-08-30T13:55:02.569Z",
     "status": "scraped",
     "tags": [
       "Administrare sistem",
-      "Rețele"
+      "Networking"
     ],
-    "matchPercentage": 55,
-    "reason": "Suport IT entry-level potrivit pentru un student, bazat pe administrare de sisteme si retele."
+    "matchPercentage": 35,
+    "reason": "IT technician role leveraging system administration skills"
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270886/Jobs-from-Hipo-in-Timisoara/QUALITY-ASSURANCE-(QA)-ENGINEER-@Next-It-Project",
-    "title": "QUALITY ASSURANCE (QA) ENGINEER @Next It Project",
-    "company": "JOBS UNLIMITED GRUP SRL",
+    "url": "https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Iasi--Bdul-Chimiei-2bisExcel-Buil/IT-System-Engineer-Web-Applications_JR108882",
+    "title": "IT System Engineer Web Applications",
+    "company": "CMA CGM ROMANIA SA",
     "location": [
-      "Timișoara, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:57:48.515Z",
+    "date": "2026-08-30T13:54:55.461Z",
     "status": "scraped",
     "tags": [
-      "Vibe coding",
-      "Programare web"
-    ],
-    "matchPercentage": 50,
-    "reason": "QA entry-level accesibil; automatizarea testelor poate valorifica programarea asistata de AI si cunostintele generale de software."
-  },
-  {
-    "url": "https://careers.ing.com/en/job/bucharest/it-business-analyst-pss-ing-hubs-romania/3121/41385919360",
-    "title": "IT Business Analyst_PSS @ING Hubs Romania",
-    "company": "ING TRUST SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:47.467Z",
-    "status": "scraped",
-    "tags": [
-      "RPA"
-    ],
-    "matchPercentage": 50,
-    "reason": "ING Hubs angajeaza frecvent juniori ca business analyst; analiza proceselor se leaga de automatizarea lor."
-  },
-  {
-    "url": "https://careers.ing.com/en/job/bucharest/it-integrator-for-wb-data-lake-platform-ing-hubs-romania/3121/41374253120",
-    "title": "IT Integrator for WB Data Lake Platform @ING Hubs Romania",
-    "company": "ING TRUST SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:47.467Z",
-    "status": "scraped",
-    "tags": [
-      "Arhitectura cloud",
+      "Cloud Computing",
       "DevOps"
     ],
-    "matchPercentage": 65,
-    "reason": "Integrare pe platforma de date; competentele mele de cloud si DevOps sunt direct aplicabile infrastructurii de data engineering."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/gbpnlyJXJ9oGv1YRD4WkMatv-Q_sa3zpt4Xq6vtUkipcLMQeOlvTdam_xyN7EazfePldFip3PPgTGeG7Z6Vff5IXZXmDDOm4tjbhv3JoBlh0PFl-saHVgoK5h0SnUnMn_8KbgcPZNytKWtZqPYZT6F7ZkR_Qxr-DHaK7IYbyBT7fV6y5X4pcelAiApgPEVaIKpv78e2J9IxBuzXNh6h0W_w_BIxuAUT6B-dswPIgCbs",
-    "title": "It Business Analyst",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:17.934Z",
-    "status": "scraped",
-    "tags": [
-      "RPA"
-    ],
-    "matchPercentage": 48,
-    "reason": "Analist de business IT cu bariera de intrare redusa; intelegerea proceselor si a solutiilor software ma ajuta, dar fara o potrivire tehnica puternica."
-  },
-  {
-    "url": "https://job-boards.greenhouse.io/onapsis/jobs/8704636002",
-    "title": "Technical Support Specialist - Level 2 - Night ShiftNew",
-    "company": "ONAPSIS ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:10.924Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare sistem",
-      "Rețele"
-    ],
     "matchPercentage": 50,
-    "reason": "Suport tehnic L2 intr-o firma de securitate unde administrarea de sisteme si retele este utila, insa tura de noapte este greu de conciliat cu studiile."
+    "reason": "Cloud infrastructure and DevOps automation align with skills"
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ai-evaluation-annotation-reviewer-l3-advanced-level-italian",
-    "title": "AI Evaluation &amp; Annotation Reviewer (L3 - Advanced Level) - Italian",
-    "company": "MUŞAT &amp; PARTNERS SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:51.649Z",
-    "status": "scraped",
-    "tags": [
-      "LLM",
-      "NLP"
-    ],
-    "matchPercentage": 60,
-    "reason": "Evaluarea și adnotarea outputurilor de AI se potrivește cu experiența mea în LLM-uri și NLP, dar cerința de italiană avansată este un dezavantaj."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Analyst-Programmer",
-    "title": "Analyst Programmer",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270254/AstraZeneca/IT-Intern",
+    "title": "IT Intern",
+    "company": "ASTRAZENECA PHARMA SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:57:01.020Z",
+    "date": "2026-08-30T13:54:47.624Z",
     "status": "scraped",
     "tags": [
-      "Programare web",
-      "Design Patterns"
+      "Cloud Computing",
+      "DevOps"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol de programare entry/mid potrivit pentru competențele mele solide de programare și design patterns."
+    "matchPercentage": 30,
+    "reason": "Generic IT internship with potential for multiple skill applications"
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/programator-delphi-mid-level-4",
-    "title": "Programator Delphi Mid-Level",
-    "company": "MAGISTER SOFTWARE SRL",
-    "location": [
-      "Strada Radu de la Afumati, București, Romania,Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:53:12.383Z",
-    "status": "scraped",
-    "tags": [
-      "Design Patterns",
-      "Rust"
-    ],
-    "matchPercentage": 55,
-    "reason": "Deși Delphi nu e în skillsetul meu, fundamentele de programare și design patterns fac tehnologia ușor de învățat."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3325917",
-    "title": "INGINER DE SISTEM ÎN INFORMATICA",
-    "company": "SOCIETATEA ”TOHAN” S.A. FILIALĂ A COMPANIEI NAŢIONALE ”ROMARM”  S.A.",
-    "location": [
-      "Zarnesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:57:19.762Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare sisteme",
-      "Administrare rețea"
-    ],
-    "matchPercentage": 65,
-    "reason": "Administrație de sisteme și rețele corespunde direct competențelor mele, deși locația Zărnești e mai puțin convenabilă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-de-fizica-informatica-geografie-part-time",
-    "title": "Profesor de Fizica,Informatica,Geografie part-time",
-    "company": "ELECTROMONTAJ SA BUCURESTI SUCURSALA FABRICA DE STILPI METALICI",
-    "location": [
-      "Bucuresti, Romania,Strada Balta Albina 9, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:56:28.677Z",
-    "status": "scraped",
-    "tags": [
-      "Rezolvare probleme",
-      "Programare web"
-    ],
-    "matchPercentage": 55,
-    "reason": "Predarea informaticii se potrivește cu cunoștințele mele și e compatibilă cu programul de student, dar e part-time și multidisciplinar."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341947",
-    "title": "INGINER DE SISTEM ÎN INFORMATICA",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:56:26.226Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare sisteme",
-      "Administrare rețea"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de inginer de sistem potrivit competențelor de administrare sisteme/rețea, selecție prin interviu."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF293717V-working-student-in-verification-validation-test-automation",
-    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/working-student-in-embedded-software-development-high-level/99642",
+    "title": "Working Student in Embedded Software Development - High Level",
     "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
       "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:54:18.475Z",
+    "date": "2026-08-30T13:55:29.763Z",
     "status": "scraped",
     "tags": [
-      "DevOps",
-      "Automatizări"
-    ],
-    "matchPercentage": 85,
-    "reason": "Test automation în Cluj-Napoca (orașul universitar) combină perfect programarea, DevOps și automatizările."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270427/Siemens-Energy/Working-Student---Media-Developer-&amp;-Process-Modeller",
-    "title": "Working Student - Media Developer &amp; Process Modeller",
-    "company": "SIEMENS ENERGY S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:54:05.220Z",
-    "status": "scraped",
-    "tags": [
-      "RPA",
-      "Programare web"
-    ],
-    "matchPercentage": 50,
-    "reason": "Modelarea proceselor poate valorifica competențe RPA și web, dar descrierea e vagă."
-  },
-  {
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
-    "title": "Software Intern Student - RealTime Drivers",
-    "company": "NXP BIROTICA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:53:28.699Z",
-    "status": "scraped",
-    "tags": [
-      "Rust",
-      "Circuite"
-    ],
-    "matchPercentage": 90,
-    "reason": "Internship software embedded la NXP: Rust este foarte relevant pentru drivere, plus baza de circuite și sisteme."
-  },
-  {
-    "url": "https://everymatrix.teamtailor.com/jobs/8053834-l2-support-engineer",
-    "title": "L2 Support Engineer",
-    "company": "EVERYMATRIX SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:34.162Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare sisteme",
-      "Administrare rețea"
+      "AI/ML",
+      "Android Things"
     ],
     "matchPercentage": 65,
-    "reason": "Suport tehnic L2 într-o companie de software valorifică administrația de sisteme și rețele, cu potențial de creștere spre dezvoltare."
+    "reason": "Embedded software with AI applications in Cluj matches AI/ML skills and location preference"
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1382#content",
-    "title": "BigQuery data engineer",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271324/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Working-Student/Intern,-Software-Development-(m/f/d)---Bucharest-IGEL-Technology",
+    "title": "Working Student/Intern, Software Development (m/f/d) - Bucharest IGEL Technology",
+    "company": "ENTRY SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:28.538Z",
+    "date": "2026-08-30T13:53:11.179Z",
     "status": "scraped",
     "tags": [
-      "Arhitectura cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 55,
-    "reason": "Rol de date pe Google Cloud; am arhitectura cloud și bazele pentru procesarea datelor, deși BigQuery specific nu e în planul de învățământ."
-  },
-  {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140",
-    "title": "Senior Software Engineer",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "Bucuresti,Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:27.149Z",
-    "status": "scraped",
-    "tags": [
-      "Design Patterns",
+      "Inginerie Software",
       "Programare web"
     ],
     "matchPercentage": 70,
-    "reason": "Descrierea menționează angajare pe mai multe niveluri de carieră, nu doar senior; competențele solide de programare și design patterns se potrivesc."
+    "reason": "Dezvoltare software, aliniat cu competentele de programare si inginerie software"
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/qp-engineer-quality-engineering/99690",
-    "title": "QP Engineer, Quality Engineering",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:16.158Z",
-    "status": "scraped",
-    "tags": [
-      "Design Patterns",
-      "Programare web"
-    ],
-    "matchPercentage": 50,
-    "reason": "Cere studii în informatică și automatizări de teste; fundația mea de programare și design patterns acoperă cerințele entry/mid."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/qp-engineer-quality-engineering/99691",
-    "title": "QP Engineer, Quality Engineering",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-23T08:58:16.158Z",
-    "status": "scraped",
-    "tags": [
-      "Design Patterns",
-      "Automatizare RPA"
-    ],
-    "matchPercentage": 50,
-    "reason": "Același rol ca anterior: testare manuală și automată accesibilă unui absolvent de informatică cu bază solidă de programare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/264650/SCOR/QA-Automation-Engineer",
-    "title": "QA Automation Engineer",
-    "company": "SCOR SRL",
+    "url": "https://jobs.systematic.com/job/Bucharest-Mid-Level-Software-Developer-Grow-Your-Skills-With-Us-010631/1390461233/",
+    "title": "Mid-Level Software Developer - Grow Your Skills With Us",
+    "company": "SYSTEMATIC SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:13.479Z",
+    "date": "2026-08-30T13:52:34.239Z",
     "status": "scraped",
     "tags": [
-      "Automatizare RPA",
-      "Programare web"
+      "Inginerie Software",
+      "Design Patterns"
     ],
-    "matchPercentage": 50,
-    "reason": "Automatizarea testelor se leagă direct de programare și experiența cu automatizări (RPA), chiar dacă descrierea lipsește."
+    "matchPercentage": 75,
+    "reason": "Dezvoltare software mid-level, potrivit cu competentele de programare si design patterns"
   },
   {
-    "url": "https://careers.nttdata.ro/nttdataromania/job/Bucuresti-Site-Reliability-Engineer/1395478133/",
-    "title": "Site Reliability Engineer",
-    "company": "NTT DATA ROMANIA S.A.",
+    "url": "https://jobs.bosch.com/en/job/REF294899R-working-student-in-software-development-for-automotive-steering",
+    "title": "Working Student in Software Development for Automotive Steering",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-08-23T08:58:10.923Z",
+    "date": "2026-08-30T13:55:46.290Z",
     "status": "scraped",
     "tags": [
-      "DevOps",
-      "Administrare sistem"
+      "Inginerie Software",
+      "Programare web"
     ],
     "matchPercentage": 65,
-    "reason": "SRE se suprapune bine cu administrarea de sistem/rețea, DevOps și arhitectura cloud din planul meu de studii."
+    "reason": "Dezvoltare software embedded, partial aliniat cu competentele de programare"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3342665",
+    "title": "INGINER DE SISTEM ÎN INFORMATICA",
+    "company": "EXPLEO ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti sectorul 6, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:32.055Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "Administrare sistem"
+    ],
+    "matchPercentage": 55,
+    "reason": "Inginerie de sistem IT, partial relevant cu competentele de administrare sistem si cloud"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145518339",
+    "title": "Working Student in Software Development for Automotive Steering",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:02.918Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Design Patterns"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltare software embedded automotive, aliniat cu competentele de programare si inginerie"
+  },
+  {
+    "url": "https://www.plan-net.ro/ro/cariera/jobs/job-detail.1738573662.quality-assurance-engineer.html",
+    "title": "Quality Assurance Engineer",
+    "company": "PLAN.NET TECHNEST ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:41.401Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Design Patterns"
+    ],
+    "matchPercentage": 60,
+    "reason": "QA engineering, relevant pentru competentele de programare si testing"
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/test-engineer/99595",
+    "title": "Test Engineer",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Cluj, Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:29.763Z",
+    "status": "scraped",
+    "tags": [
+      "Inginerie Software",
+      "Programare web"
+    ],
+    "matchPercentage": 55,
+    "reason": "Testare software/hardware, partial relevant cu competentele de programare"
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/booking-holdings-romania-fullstack-software-engineer-pipeline/98262",
+    "title": "Booking Holdings Romania - Fullstack Software Engineer - Pipeline",
+    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:22.900Z",
+    "status": "scraped",
+    "tags": [
+      "Dezvoltare Web",
+      "Cloud Computing"
+    ],
+    "matchPercentage": 75,
+    "reason": "Fullstack development role requiring web development, design patterns, and cloud skills that match the curriculum"
+  },
+  {
+    "url": "https://devjob.ro/jobs/Zipper-Fullstack-Developer",
+    "title": "Fullstack Developer",
+    "company": "ZIPPER SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:13.712Z",
+    "status": "scraped",
+    "tags": [
+      "Dezvoltare Web",
+      "Administrare Sistem"
+    ],
+    "matchPercentage": 70,
+    "reason": "Fullstack web development with HTML5, JavaScript, CSS, React, Linux - matches web programming and system administration skills"
+  },
+  {
+    "url": "https://atek.ro/apply-ai-dev.html",
+    "title": "AI Software Developer",
+    "company": "ATEK SOFTWARE SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:46.700Z",
+    "status": "scraped",
+    "tags": [
+      "IA și Machine Learning",
+      "LLMs"
+    ],
+    "matchPercentage": 80,
+    "reason": "AI software development aligns well with LLMs, generative AI, and NLP competencies from the curriculum"
+  },
+  {
+    "url": "https://www.techtalent.ro/careers/software-engineer-ai-first-development/",
+    "title": "Software Engineer (AI-First Development)",
+    "company": "TECHTALENT SOFTWARE S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:14.020Z",
+    "status": "scraped",
+    "tags": [
+      "IA și Machine Learning",
+      "Vibe Coding"
+    ],
+    "matchPercentage": 85,
+    "reason": "AI-first software engineering perfectly matches LLMs, generative AI, and vibe coding competencies"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF288181R-data-scientist-for-e-mobility-cloud-solutions",
+    "title": "Data Scientist for (e-)Mobility Cloud Solutions",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:42.111Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Cloud Computing"
+    ],
+    "matchPercentage": 75,
+    "reason": "Data science and cloud solutions align with data science, cloud computing, and machine learning skills"
+  },
+  {
+    "url": "https://humanrise.ro/job/windows-broadcast-media/",
+    "title": "Windows Systems &amp; Cloud Administrator (Broadcast Media) | București, CIM, 3/5 hybird",
+    "company": "HUMAN RISE AGENCY S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:42.111Z",
+    "status": "scraped",
+    "tags": [
+      "Administrare Sistem",
+      "Cloud Computing"
+    ],
+    "matchPercentage": 65,
+    "reason": "System and cloud administration matches system administration and network skills from the curriculum"
+  },
+  {
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/20277885",
+    "title": "Application Engineering Analyst",
+    "company": "VERTIV ROMANIA SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:01.780Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "Programare web"
+    ],
+    "matchPercentage": 45
+  },
+  {
+    "url": "https://www.bookingholdings-coe.com/bookingholdings-coe/jobs/29830?lang=en-us",
+    "title": "Booking Holdings Romania - Cybersecurity Incident Responder II, Enterprise Security",
+    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:56.319Z",
+    "status": "scraped",
+    "tags": [
+      "Securitate Cibernetică",
+      "Criptografie"
+    ],
+    "matchPercentage": 75
+  },
+  {
+    "url": "https://careers.hcltech.com/job/Analyst-Technical-diagnosis-and-troubleshooting/144263-en_US",
+    "title": "Analyst - Technical diagnosis and troubleshooting",
+    "company": "HCL TECHNOLOGIES ROMANIA SRL",
+    "location": [
+      "Brașov,Iași,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:54:42.269Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Administrare sistem"
+    ],
+    "matchPercentage": 40
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/sef-de-tura-productie-cnc-strunguri-arges-full-time/1975727",
+    "title": "💼 Șef de tură Producție CNC (Strunguri) | Argeș | Full-time",
+    "company": "TFM METAL INDUSTRY SRL",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:37.879Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Cloud Computing"
+    ],
+    "matchPercentage": 55
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/data-engineering-expert/97925",
+    "title": "Data Engineering Expert",
+    "company": "TBI BANK EAD SOFIA - SUCURSALA BUCURESTI",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:24.295Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Cloud Computing"
+    ],
+    "matchPercentage": 55,
+    "reason": "Role focuses on data pipelines/ETL; student hasȘtiința Datelor and cloud architecture skills but lacks explicit data engineering experience"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/sr-data-scientist-genai-remote",
+    "title": "Sr. Data Scientist - GenAI (Remote)",
+    "company": "CROWDSTRIKE SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:15.772Z",
+    "status": "scraped",
+    "tags": [
+      "LLMs",
+      "Sisteme AI generative"
+    ],
+    "matchPercentage": 70,
+    "reason": "Strong alignment with student's LLM, generative AI, and NLP competencies; however Sr. level may require more experience than a student has"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271147/Euro-Testing-Software-Solutions/Data-Transformation",
+    "title": "Data Transformation",
+    "company": "EURO-TESTING SOFTWARE SOLUTIONS SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:13.712Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Prelucrarea limbajului natural"
+    ],
+    "matchPercentage": 45,
+    "reason": "Data transformation role aligns with data processing skills; limited job description available but data-related competencies apply"
+  },
+  {
+    "url": "https://careers.allianz.com/global/en/job/98145",
+    "title": "Data Center and Cloud Engineer (m/f/d)",
+    "company": "ALLIANZ - TIRIAC ASIGURARI SA BUCURESTI SUCURSALA MARAMURES",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:05.676Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "matchPercentage": 65,
+    "reason": "Cloud infrastructure, disaster recovery, and architecture align well with student's cloud architecture and DevOps skills"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268496/Booking-Holdings/Booking-Holdings-Romania---Data-Analytics-Engineer",
+    "title": "Booking Holdings Romania - Data Analytics Engineer",
+    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-30T13:55:04.258Z",
+    "status": "scraped",
+    "tags": [
+      "Știința Datelor",
+      "Programare web"
+    ],
+    "matchPercentage": 55,
+    "reason": "Data analytics engineering combines data and engineering skills; student has data science and programming background"
   }
 ]
