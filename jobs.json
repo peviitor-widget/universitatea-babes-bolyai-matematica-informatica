@@ -1,428 +1,71 @@
 [
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/java-trainee/100085",
-    "title": "Java Trainee",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:22:39.330Z",
-    "status": "scraped",
-    "tags": [
-      "programare web",
-      "Rust"
-    ],
-    "matchPercentage": 95,
-    "reason": "Java Trainee se potrivește direct domeniului de inginerie software și are nivel de trainee potrivit."
-  },
-  {
-    "url": "https://careers.adobe.com/us/en/job/R166437",
-    "title": "ML Services Software Development Engineer",
-    "company": "ADOBE SYSTEMS ROMANIA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:24:46.755Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "LLM"
-    ],
-    "matchPercentage": 95,
-    "reason": "Sarcinile implică ML/AI generativ, dezvoltare de servicii ML și inferență - foarte relevante."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18660/ai-data-scientist",
-    "title": "AI Data Scientist",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:33.347Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "deep learning"
-    ],
-    "matchPercentage": 95,
-    "reason": "Poziția AI Data Scientist se potrivește direct cu machine learning, deep learning și competențele de AI din planul de învățământ."
-  },
-  {
-    "url": "https://jobs.keysight.com/external/jobs/54022",
-    "title": "Application Engineer, Entry",
-    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:20:40.903Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme distribuite",
-      "rețele"
-    ],
-    "matchPercentage": 90,
-    "reason": "Application Engineer entry-level folosește rețele TCP/IP și concepte de calculatoare, relevante pentru profilul tehnic."
-  },
-  {
-    "url": "https://d-career.org/Draexlmaier/job/Pitesti-Internship-Opportunity-Data-Engineer-for-Process-Mining-%28Celonis%29-110101/1433775733/",
-    "title": "Internship Opportunity: Data Engineer for Process Mining (Celonis)",
-    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:20:14.977Z",
-    "status": "scraped",
-    "tags": [
-      "Big Data",
-      "data mining"
-    ],
-    "matchPercentage": 90,
-    "reason": "Data Engineer pentru Process Mining folosește direct Big Data, procesarea datelor și inginerie software."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144766999",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271129/Bosch-Romania/Working-Student-in-Embedded-Software-Development---High-Level",
     "title": "Working Student in Embedded Software Development - High Level",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:16:02.762Z",
-    "status": "scraped",
-    "tags": [
-      "Rust",
-      "software"
-    ],
-    "matchPercentage": 90,
-    "reason": "Embedded Software Development se potriveste direct cu programarea, arhitectura software si sisteme distribuite."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151876276",
-    "title": "Working Student Data Engineering",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:14:37.833Z",
-    "status": "scraped",
-    "tags": [
-      "Big Data",
-      "machine learning"
-    ],
-    "matchPercentage": 90,
-    "reason": "Data Engineering este foarte relevant pentru Big Data, ML si procesarea fluxurilor de date."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF297096R-working-student-data-engineering",
-    "title": "Working Student Data Engineering",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:13:57.349Z",
+    "date": "2026-10-04T14:08:45.612Z",
     "status": "scraped",
     "tags": [
-      "Big Data",
-      "data mining"
+      "programare",
+      "IoT"
     ],
-    "matchPercentage": 90,
-    "reason": "Data Engineering se aliniaza direct cu competentele de Big Data, prelucrare de date si sisteme distribuite."
+    "matchPercentage": 95,
+    "reason": "Internship în embedded software development, direct relevant pentru programare și aplicații IoT."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/business-software-developer-full-stack-developer",
-    "title": "Business Software Developer / Full Stack Developer",
-    "company": "SOFTROM GRUP SRL",
-    "location": [
-      "Strada Garlesti 121, Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:24:54.779Z",
-    "status": "scraped",
-    "tags": [
-      "programare web",
-      "design patterns"
-    ],
-    "matchPercentage": 90,
-    "reason": "Full Stack Developer folosește direct competențe de dezvoltare software și are un nivel potrivit pentru junior/mid."
-  },
-  {
-    "url": "https://theaccessgroup.wd103.myworkdayjobs.com/en-US/Access_Group_External_Careers/job/Timisoara/Cloud-Security-Engineer_JR001852-3",
-    "title": "Cloud Security Engineer",
-    "company": "HIGH ACCESS GROUP SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:35.037Z",
-    "status": "scraped",
-    "tags": [
-      "cloud",
-      "securitate"
-    ],
-    "matchPercentage": 90,
-    "reason": "Cloud Security Engineer se potrivește direct domeniilor Cloud/DevOps și Securitate cibernetică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/google-cloud-full-stack-developer",
-    "title": "Google Cloud Full stack Developer",
+    "url": "https://www.bestjobs.eu/loc-de-munca/software-developer-paid-internship-4",
+    "title": "Software Developer Paid Internship",
     "company": "ZYNK SOFTWARE SRL",
     "location": [
-      "Remote, Romania"
+      "Caisului 9 Cluj-Napoca, Cluj-Napoca, Judetul Cluj, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:24:03.887Z",
+    "date": "2026-10-04T14:08:20.463Z",
     "status": "scraped",
     "tags": [
-      "web",
-      "cloud"
+      "programare",
+      "web"
     ],
-    "matchPercentage": 90,
-    "reason": "Google Cloud Full stack Developer combină dezvoltare web și cloud - foarte relevant."
+    "matchPercentage": 95,
+    "reason": "Software Developer Paid Internship, direct în domeniul ingineriei software și dezvoltării web."
   },
   {
-    "url": "https://careers.ing.com/en/job/bucharest/devops-engineer-ing-hubs-romania/3121/43278543040",
-    "title": "Devops Engineer@ ING Hubs Romania",
-    "company": "ING TRUST SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270351/SLB/IT-Internship",
+    "title": "IT Internship",
+    "company": "PERSY SLB S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:25:35.929Z",
+    "date": "2026-10-04T14:08:45.612Z",
     "status": "scraped",
     "tags": [
-      "DevOps",
+      "programare",
       "cloud"
     ],
     "matchPercentage": 90,
-    "reason": "DevOps Engineer - se potrivește perfect domeniului Cloud, DevOps și infrastructură."
+    "reason": "IT Internship la SLB, relevant pentru dezvoltare software, cloud și soluții tehnologice pentru energie."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268696/VOIS-Romania/DevOps-Engineer",
-    "title": "DevOps Engineer",
-    "company": "VOIS MANAGEMENT S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:24:27.351Z",
-    "status": "scraped",
-    "tags": [
-      "DevOps",
-      "cloud"
-    ],
-    "matchPercentage": 90,
-    "reason": "DevOps Engineer - rol tehnic relevant pentru Cloud/DevOps."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18677/data-engineer",
-    "title": "Data Engineer",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:33.347Z",
-    "status": "scraped",
-    "tags": [
-      "Big Data",
-      "Python"
-    ],
-    "matchPercentage": 90,
-    "reason": "Data Engineer se aliniază direct cu competențele de Big Data, procesare de date și programare tehnică."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:16:02.762Z",
-    "status": "scraped",
-    "tags": [
-      "AI",
-      "machine learning"
-    ],
-    "matchPercentage": 90,
-    "reason": "Embedded AI corespunde direct AI/ML și nivelului mid-level."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation",
-    "title": "Technical Analyst – AI Workflow Automation",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-03T14:50:53.678Z",
-    "status": "scraped",
-    "tags": [
-      "AI generative",
-      "RPA"
-    ],
-    "matchPercentage": 88,
-    "reason": "Analist tehnic pe automatizarea workflow-urilor cu AI si RPA, nivel potrivit si taskuri direct legate de automatizare si procese business."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/programator-junior-bucuresti/1987528",
-    "title": "Programator Junior - Bucuresti",
-    "company": "DEDEMAN SRL",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/IT-Business-Analyst--ING-Hubs-Romania_REQ-10122346",
+    "title": "IT Business Analyst @ING Hubs Romania",
+    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:21:25.381Z",
+    "date": "2026-10-04T14:11:36.795Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare web",
-      "testare software"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol junior clar, scriere si testare de cod in framework-uri web moderne, cu mentoring si code review - potrivire directa cu ingineria software si web."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/it-operations-engineer-it-administrator-german-speaker-m-f-d",
-    "title": "IT Operations Engineer / IT Administrator (German speaker) (m/f/d)",
-    "company": "JUSTROCKET CLJ SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:44.841Z",
-    "status": "scraped",
-    "tags": [
-      "DevOps",
-      "cloud"
-    ],
-    "matchPercentage": 85,
-    "reason": "Pozitia de IT Operations/Administrator se potriveste cu competentele de cloud, DevOps si infrastructura."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18673/it-solutions-engineer-in-hcp-database-oracle",
-    "title": "IT Solutions Engineer in HCP Database Oracle",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:33.347Z",
-    "status": "scraped",
-    "tags": [
-      "cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rolul de IT Solutions Engineer cu Oracle se aliniaza cu infrastructura, baze de date si cloud computing."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18672/it-solutions-eng",
-    "title": "IT Solutions Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:33.347Z",
-    "status": "scraped",
-    "tags": [
-      "cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 85,
-    "reason": "Pozitia de IT Solutions Engineer utilizeaza competente de infrastructura si dezvoltare de solutii IT."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18653/it-solutions-engineer",
-    "title": "IT Solutions Engineer",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:33.347Z",
-    "status": "scraped",
-    "tags": [
-      "cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 85,
-    "reason": "Similar cu celelalte roluri IT Solutions, se potriveste cu competentele de cloud si sisteme distribuite."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/cloud-engineer-general",
-    "title": "Cloud Engineer (General)",
-    "company": "BLACK SQUARE SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:00.168Z",
-    "status": "scraped",
-    "tags": [
-      "cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 85,
-    "reason": "Cloud Engineer (General) folosește competențe de cloud computing și infrastructură."
-  },
-  {
-    "url": "https://jobs.ashbyhq.com/ruby-labs/36041e7b-d453-481d-be23-bc17ced5fad6",
-    "title": "Data Engineer (Marketing Systems)",
-    "company": "ABLE CRIS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:35.037Z",
-    "status": "scraped",
-    "tags": [
-      "Big Data",
-      "Python"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rolul Data Engineer folosește direct Python, SQL, Bash și integrarea datelor, relevante pentru Big Data și programare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269133/VOIS-Romania/System-Engineering-NIFI---Kafka",
-    "title": "System Engineering NIFI - Kafka",
-    "company": "VOIS MANAGEMENT S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:24:27.351Z",
-    "status": "scraped",
-    "tags": [
-      "data streams",
+      "Data mining",
       "Big Data"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginerie de sisteme cu NiFi/Kafka pentru fluxuri de date, corespunde direct Big Data si data streams."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/software-engineer-iii-backend-protection",
-    "title": "Software Engineer III, Backend - Protection",
-    "company": "IONIS PRIME CONCEPT S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:19.112Z",
-    "status": "scraped",
-    "tags": [
-      "programare web",
-      "design patterns"
-    ],
-    "matchPercentage": 80,
-    "reason": "Backend development în domeniul protecției se potrivește software, dar titlul 'Engineer III' sugerează un nivel apropiat de pragul superior."
+    "matchPercentage": 90,
+    "reason": "IT Business Analyst for data lake/governance directly leverages data management and analytics skills."
   },
   {
     "url": "https://jobs.rinf.tech/230966",
@@ -432,81 +75,437 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:18.966Z",
+    "date": "2026-10-04T14:12:05.977Z",
     "status": "scraped",
     "tags": [
       "Rust",
-      "performanță"
+      "IoT"
     ],
-    "matchPercentage": 80,
-    "reason": "Embedded Software se potrivește direct cu programarea și conceptele de sisteme, având un nivel plausibil junior/mid."
+    "matchPercentage": 90,
+    "reason": "Embedded software folosește direct competentele de programare si IoT."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
+    "url": "https://jobs.rinf.tech/232674",
+    "title": "C/C++ Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:02:26.559Z",
+    "status": "scraped",
+    "tags": [
+      "Rust",
+      "programare orientata performanta"
+    ],
+    "matchPercentage": 90,
+    "reason": "Dezvoltare embedded C/C++ se potriveste direct domeniului de specialitate."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532084471",
+    "title": "AI Developer",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:04.113Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme AI generative",
+      "cloud"
+    ],
+    "matchPercentage": 88,
+    "reason": "Dezvoltarea de aplicatii, agenti si copiloti AI cu Azure OpenAI, MCP si automatizari cloud corespunde direct competentelor tale de AI generative, LLM si cloud."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/junior-software-engineer-devops/100211",
+    "title": "Junior Software Engineer / DevOps",
+    "company": "CAPGEMINI SERVICES ROMANIA SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:10:49.906Z",
+    "status": "scraped",
+    "tags": [
+      "devops",
+      "inginerie software"
+    ],
+    "matchPercentage": 88,
+    "reason": "Junior Software Engineer/DevOps cu REST APIs, Git și CI/CD corespunde direct formării tale în inginerie software și DevOps."
+  },
+  {
+    "url": "https://jobs.rinf.tech/230894",
+    "title": "Android Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:35.894Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii mobile",
+      "Android Things"
+    ],
+    "matchPercentage": 85,
+    "reason": "Dezvoltare de aplicatii Android, care corespunde direct competentelor tale de mobile si Android Things, cu nivel potrivit pentru un absolvent."
+  },
+  {
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/IT-Business-Analyst---Pricing-Tribe---IPA-Data-Product--ING-Hubs-Romania_REQ-10118910-1",
+    "title": "IT Business Analyst | Pricing Tribe | IPA Data Product @ING Hubs Romania",
+    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:04.113Z",
+    "status": "scraped",
+    "tags": [
+      "Data mining",
+      "Software engineering"
+    ],
+    "matchPercentage": 85,
+    "reason": "IT Business Analyst role directly aligns with software engineering, data management, and AI/data competencies."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:50.268Z",
+    "status": "scraped",
+    "tags": [
+      "Testare software",
+      "Calitatea sistemelor software"
+    ],
+    "matchPercentage": 85,
+    "reason": "Verification, validation, and test automation align with software testing and quality engineering competencies."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271859/Bosch-Romania/Working-Student-Production-IT",
+    "title": "Working Student Production IT",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:08:51.834Z",
+    "status": "scraped",
+    "tags": [
+      "DevOps",
+      "Software engineering"
+    ],
+    "matchPercentage": 85,
+    "reason": "Production IT working student role directly applies software/automation skills in industrial setting."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
     "title": "Embedded Software Eng.",
     "company": "SCHAEFFLER ROMANIA SRL",
     "location": [
       "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:19:17.820Z",
+    "date": "2026-10-04T14:03:55.630Z",
     "status": "scraped",
     "tags": [
-      "Rust",
-      "performanță"
+      "programare orientata performanta",
+      "IoT"
     ],
-    "matchPercentage": 80,
-    "reason": "Embedded Software la Schaeffler folosește direct competențe de programare și sisteme, nivelul fiind compatibil cu internship/junior."
+    "matchPercentage": 85,
+    "reason": "Dezvoltare embedded C/C++ relevanta direct pentru competentele tehnice."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/cloud-consultant-aws-and-azure-mfd/98127",
-    "title": "Cloud Consultant – AWS and Azure (m/f/d)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "url": "https://jobs.rinf.tech/213554",
+    "title": "Cross-Platform Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
-      "Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:44.308Z",
+    "date": "2026-10-04T14:01:48.992Z",
+    "status": "scraped",
+    "tags": [
+      "programare orientata performanta",
+      "IoT"
+    ],
+    "matchPercentage": 85,
+    "reason": "Dezvoltare embedded cross-platform relevanta pentru software si IoT."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-inginer-it/6088",
+    "title": "Tehnician / Inginer IT",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:58.981Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud computing",
+      "DevOps"
+    ],
+    "matchPercentage": 80,
+    "reason": "IT technician/engineer position matches core IT and infrastructure skills relevant to the curriculum."
+  },
+  {
+    "url": "https://multijobs.ro/job/student-intern-hybrid-zona-metropolitana-bucuresti/5385",
+    "title": "Student Intern – Hybrid – Zona metropolitană București",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:33.202Z",
+    "status": "scraped",
+    "tags": [
+      "Software engineering",
+      "DevOps"
+    ],
+    "matchPercentage": 80,
+    "reason": "Student intern position in IT context is appropriate for technical learning and contribution."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/google-cloud-full-stack-developer",
+    "title": "Google Cloud Full stack Developer",
+    "company": "ZYNK SOFTWARE SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:04.305Z",
     "status": "scraped",
     "tags": [
       "cloud",
-      "DevOps"
+      "devops"
     ],
-    "matchPercentage": 75,
-    "reason": "Cloud Consultant AWS/Azure - rol tehnic de arhitectură/consultanță cloud, nivel acceptabil (mid)."
+    "matchPercentage": 78,
+    "reason": "Dezvoltare full stack pe Google Cloud corespunde formării tale în cloud, DevOps și programare web, cu nivel potrivit de inginer."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/cloud-consultant-aws-and-azure-m-f-d/1990196",
-    "title": "Cloud Consultant – AWS and Azure (m/f/d)",
+    "url": "https://jobs.rinf.tech/231274",
+    "title": "DevOps Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:35.894Z",
+    "status": "scraped",
+    "tags": [
+      "devops",
+      "cloud"
+    ],
+    "matchPercentage": 76,
+    "reason": "DevOps Engineer acoperă automatizările în cloud și CI/CD din programa ta, fără cerințe de seniority."
+  },
+  {
+    "url": "https://jobs.rinf.tech/230964",
+    "title": "DevOps Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:05.977Z",
+    "status": "scraped",
+    "tags": [
+      "devops",
+      "cloud"
+    ],
+    "matchPercentage": 76,
+    "reason": "Poziție de DevOps Engineer la nivel de intrare, potrivită pentru automatizări în cloud și CI/CD."
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF91648M-p-b2676d2a46c230dbb1f2cdf117a51f14/senior-regional-it-governance-and-quality-coordinator-emea-tires",
+    "title": "Senior Regional IT Governance and Quality Coordinator EMEA - Tires",
     "company": "CONTINENTAL SRL",
     "location": [
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:13.505Z",
+    "date": "2026-10-04T14:12:16.192Z",
     "status": "scraped",
     "tags": [
-      "cloud",
+      "Security",
       "DevOps"
     ],
     "matchPercentage": 75,
-    "reason": "Cloud Consultant AWS/Azure - similar cu 117, relevanță tehnică pentru cloud."
+    "reason": "IT Governance and Quality coordination uses ITSM, risk, and compliance knowledge relevant to infrastructure/security."
   },
   {
-    "url": "https://seniorsoftware.ro/cariere/laravel-web-developer",
-    "title": "Job Laravel Web Developer",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271931/Vodafone-Romania/Cloud-Engineer",
+    "title": "Cloud Engineer",
+    "company": "VODAFONE ROMANIA SA",
     "location": [
-      "București"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T14:53:41.305Z",
+    "date": "2026-10-04T14:07:50.895Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare web",
-      "design patterns"
+      "cloud",
+      "devops"
     ],
     "matchPercentage": 74,
-    "reason": "Dezvoltare de aplicatii web Laravel cu focus pe scalabilitate, potrivire directa cu programarea web, fara cerinta de senioritate."
+    "reason": "Cloud Engineer la Vodafone intră direct în specialitatea ta de cloud computing și DevOps, la nivel de inginer."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/cloud-engineer-azure/390/",
+    "title": "Cloud Engineer – AZURE",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:10:54.773Z",
+    "status": "scraped",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "matchPercentage": 72,
+    "reason": "Titlul Cloud Engineer se încadrează în specialitatea ta de arhitectură cloud și DevOps, fără cerințe de seniority."
+  },
+  {
+    "url": "https://multijobs.ro/job/devops-engineer/5312",
+    "title": "Devops Engineer",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:45.640Z",
+    "status": "scraped",
+    "tags": [
+      "devops",
+      "cloud"
+    ],
+    "matchPercentage": 72,
+    "reason": "Titlul DevOps Engineer corespunde competențelor tale în cloud, automatizare și infrastructură, la nivel necualificat de senioritate."
+  },
+  {
+    "url": "https://cariere.raiffeisen.ro/company/raiffeisen-bank/jobs/qa-automation-engineer-professional",
+    "title": "QA Automation Engineer Professional",
+    "company": "RAIFFEISEN BANK SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:35.351Z",
+    "status": "scraped",
+    "tags": [
+      "testare software",
+      "calitate software"
+    ],
+    "matchPercentage": 72,
+    "reason": "Automatizare de teste, scenarii de performanță și pachete de regresie într-o echipă Agile, nivel potrivit pentru un profil entry/mid."
+  },
+  {
+    "url": "https://softlead.ro/cariere/software-developer",
+    "title": "Software Developer",
+    "company": "SOFTLEAD MARKETPLACE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:55.855Z",
+    "status": "scraped",
+    "tags": [
+      "programare web"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltare de aplicatii web pe platforma Softlead se potriveste partial cu competentele tale de programare web, insa nu este legata de AI/ML si nivelul nu este precizat."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/senior-successfactors-it-consultant",
+    "title": "Senior SuccessFactors (IT Consultant)",
+    "company": "YAZAKI COMPONENT TECHNOLOGY SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:55.855Z",
+    "status": "scraped",
+    "tags": [
+      "Cloud computing",
+      "Software engineering"
+    ],
+    "matchPercentage": 70,
+    "reason": "SuccessFactors IT Consultant involves system configuration and data/workflows but less direct ML/CS depth."
+  },
+  {
+    "url": "https://jobs.rinf.tech/231272",
+    "title": ".NET Development Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:35.894Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "programare web"
+    ],
+    "matchPercentage": 68,
+    "reason": "Poziție de dezvoltare software fără mențiune de senioritate, aliniată cu dezvoltarea de aplicații și ingineria software, deci potrivită pentru nivel entry/mid."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272204/Euro-Testing-Software-Solutions/Technical-System-Analysis-in-SME-Tribe",
+    "title": "Technical System Analysis in SME Tribe",
+    "company": "EURO-TESTING SOFTWARE SOLUTIONS SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:10:37.737Z",
+    "status": "scraped",
+    "tags": [
+      "testare software",
+      "inginerie software"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiza tehnica a sistemelor intr-o firma de software consulting cu arii de testare, DevSecOps si AI, deci domeniu relevant la nivel junior/entry, desi nu acopera direct AI/ML."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-implementare-software-1",
+    "title": "Specialist Implementare Software",
+    "company": "DIGITALL CONNECT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:48.104Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "testare software"
+    ],
+    "matchPercentage": 64,
+    "reason": "Implementare software este în sfera ingineriei software și testării, iar nivelul de „Specialist” este potrivit pentru un absolvent, deși descrierea lipsește și nu pot confirma domeniul tehnic exact."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270999/Siemens-Energy/Cybersecurity-Engineer",
+    "title": "Cybersecurity Engineer",
+    "company": "SIEMENS ENERGY S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:08:45.612Z",
+    "status": "scraped",
+    "tags": [
+      "securitate cibernetica",
+      "administrarea sistemelor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Titlul este generic, fara senioritate, iar sarcinile de cybersecuritate corespund competentelor de securitate a retelelor; potrivire partiala datorita detaliilor lipsa."
   }
 ]
