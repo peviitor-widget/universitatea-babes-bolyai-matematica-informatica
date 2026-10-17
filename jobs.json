@@ -1,57 +1,230 @@
 [
   {
-    "url": "https://careers.epam.com/en/vacancy/sap-joule-multi-agent-integration-engineer-bltnwfddyw8sw56wp3v_en",
-    "title": "SAP Joule &amp; Multi-Agent Integration Engineer",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-controlul-calitatii-qa-qc-1",
+    "title": "Inginer controlul calitatii/QA/QC",
+    "company": "CIS GAZ SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania",
+      "Calimanesti",
+      "Romania",
+      "Dragasani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:20.926Z",
+    "status": "scraped",
+    "tags": [
+      "testare software"
+    ],
+    "matchPercentage": 90,
+    "reason": "QA/QC se potrivește direct cu competența de testare software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol mid de inginerie AI pe sisteme incorporate, care foloseste direct competentele de machine learning si deep learning la nivelul potrivit."
+  },
+  {
+    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
+    "title": "Industrial Automation &amp; Embedded Systems Engineer",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T16:09:18.306Z",
+    "status": "scraped",
+    "tags": [
+      "IoT"
+    ],
+    "matchPercentage": 85,
+    "reason": "Sisteme embedded și industrial automation - relevante pentru IoT și inginerie software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer",
+    "title": "Automation &amp; Robotics Engineer",
+    "company": "ROBERT BOSCH SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
+    "date": "2026-10-16T11:06:47.945Z",
     "status": "scraped",
     "tags": [
-      "LLM",
-      "machine learning"
+      "roboti inteligenti"
     ],
-    "matchPercentage": 95,
-    "reason": "Implementare directa AI generativ/agenți multi-agent pe SAP BTP; nivel plausibil junior/mid."
+    "matchPercentage": 85,
+    "reason": "Automation și robotică - relevante pentru sisteme inteligente și robotică."
   },
   {
-    "url": "https://careers.rebeldot.com/jobs/8303757-ai-engineer",
-    "title": "AI Engineer",
-    "company": "REBELDOT SOLUTIONS S.R.L.",
+    "url": "https://jobs.bosch.com/en/job/REF286809G-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Brasov",
-      "Oradea"
+      "Timișoara",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-15T18:47:11.345Z",
-    "status": "activ",
+    "date": "2026-10-16T13:03:19.885Z",
+    "status": "scraped",
     "tags": [
-      "machine learning",
-      "LLM"
+      "inteligen artificiala",
+      "cloud computing"
     ],
-    "matchPercentage": 95,
-    "reason": "AI Engineer: PyTorch, LLM, RAG, FastAPI - potrivire directa cu competentele AI; nivel junior/mid."
+    "matchPercentage": 80,
+    "reason": "Dezvoltare AI si cloud - domeniul se potriveste direct cu competentele de AI/ML si cloud computing, fara indicii de nivel senior."
   },
   {
-    "url": "https://careers.rebeldot.com/jobs/8385601-full-stack-engineer-with-ionic-angular",
-    "title": "Full-Stack Engineer (with Ionic & Angular)",
-    "company": "REBELDOT SOLUTIONS S.R.L.",
+    "url": "https://careers.bmwtechworks.ro/jobs/7485670-angular-developer",
+    "title": "Angular Developer",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Brasov",
-      "Oradea"
+      "Cluj-Napoca"
     ],
     "salary": null,
-    "date": "2026-10-15T18:47:11.345Z",
-    "status": "activ",
+    "date": "2026-10-16T16:09:18.307Z",
+    "status": "scraped",
     "tags": [
       "programare web",
-      "DevOps"
+      "testare software"
     ],
-    "matchPercentage": 75,
-    "reason": "Full-stack SE (.NET/Angular/Ionic) cu focus pe web si cloud Azure, potrivit nivel junior/mid."
+    "matchPercentage": 72,
+    "reason": "Rol de frontend Angular cu testing si code review, direct relevanta pentru dezvoltarea web adaptiva, fara cerinte senior."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "testare software",
+      "verificare si validare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Test automation si verificare/validare sunt competente directe de testare software avansata, la nivel working student."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271921/Societe-Generale-Global-Solution-Centre/Internship-Java-Software-Engineer",
+    "title": "Internship Java Software Engineer",
+    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:03.226Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "design patterns"
+    ],
+    "matchPercentage": 70,
+    "reason": "Internship de dezvoltare software Java intr-un mediu IT, nivel si domeniu potrivite pentru un student la informatica."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271990/Societe-Generale-Global-Solution-Centre/Internship-C#-Developer",
+    "title": "Internship C# Developer",
+    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:03.226Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "design patterns"
+    ],
+    "matchPercentage": 70,
+    "reason": "Internship de dezvoltare C# in IT, incadrat corect ca nivel si domeniu de inginerie software."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/f9844f7edeaf01-technical-analyst-database-performance",
+    "title": "Technical Analyst (Database Performance)",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:28:49.824Z",
+    "status": "scraped",
+    "tags": [
+      "Big Data",
+      "data mining"
+    ],
+    "matchPercentage": 70,
+    "reason": "Analiza de performanta baze de date - relevant pentru sisteme de date, dar nu se potrivește direct cu specializarea principală AI/ML."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/system-administrator-infrastucture-engineer",
+    "title": "System Administrator/Infrastucture Engineer",
+    "company": "SKYWIND LIVE S.R.L.",
+    "location": [
+      "Swan Office",
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:36.116Z",
+    "status": "scraped",
+    "tags": [
+      "administrarea sistemelor",
+      "securitate retele"
+    ],
+    "matchPercentage": 68,
+    "reason": "System administrator/infrastructure engineer foloseste direct competente de administrare a sistemelor, securitate si infrastructura cloud."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_10",
+    "title": "SQL Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-10-16T16:19:11.117Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "programare web"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol junior de dezvoltare web ASP.NET/C# care se incadreaza in domeniul de inginerie software si dezvoltare web, desi nu atinge competentele AI/ML specifice."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_7",
+    "title": "Junior Developer AI",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-10-16T16:19:11.117Z",
+    "status": "scraped",
+    "tags": [
+      "programare web",
+      "inginerie software"
+    ],
+    "matchPercentage": 62,
+    "reason": "Desi titlul mentioneaza AI, descrierea este de dezvoltare web .NET la nivel junior, potrivit ca nivel dar doar partial ca domeniu."
   }
 ]
