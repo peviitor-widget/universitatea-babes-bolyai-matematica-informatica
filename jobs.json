@@ -1,127 +1,21 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
     "company": "ROBERT BOSCH SRL",
     "location": [
-      "Cluj-Napoca",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:21:13.354Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "embedded"
-    ],
-    "matchPercentage": 95,
-    "reason": "AI embedded se potriveste direct competentelor de ML si sisteme AI."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:06.239Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "embedded"
-    ],
-    "matchPercentage": 95,
-    "reason": "AI embedded se potriveste direct competentelor de ML si sisteme AI."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
-    "title": "PROGRAMATOR",
-    "company": "SOBIS SOLUTIONS SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-23T10:34:25.264Z",
-    "status": "scraped",
-    "tags": [
-      "C#",
-      "SQL"
-    ],
-    "matchPercentage": 90,
-    "reason": "Potrivire directă pentru inginerie software"
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_7",
-    "title": "Junior Developer AI",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:10:05.433Z",
+    "date": "2026-10-24T10:40:08.109Z",
     "status": "scraped",
     "tags": [
       "AI",
-      "ML"
+      "cloud"
     ],
-    "matchPercentage": 90,
-    "reason": "Junior Developer AI - se potrivește direct cu AI/ML din planul de studiu."
-  },
-  {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/DevOps-Engineer_R0121181-1",
-    "title": "DevOps Engineer",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:22:21.546Z",
-    "status": "scraped",
-    "tags": [
-      "DevOps",
-      "CI/CD"
-    ],
-    "matchPercentage": 90,
-    "reason": "DevOps cu CI/CD, IaC și GitOps, direct în domeniul dorit."
-  },
-  {
-    "url": "https://careerromania.autoliv.com/jobs/6274024-cybersecurity-engineer",
-    "title": "Cybersecurity Engineer",
-    "company": "AUTOLIV BAC S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:16.340Z",
-    "status": "scraped",
-    "tags": [
-      "Securitate",
-      "TARA"
-    ],
-    "matchPercentage": 88,
-    "reason": "Activități tehnice de securitate cibernetică conform ISO/SAE 21434."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_1",
-    "title": "Senior Web Developer",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:10:05.433Z",
-    "status": "scraped",
-    "tags": [
-      "programare",
-      "web"
-    ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltare web .NET/C# potrivită pentru inginerie software junior/mid."
+    "matchPercentage": 95,
+    "reason": "AI și Cloud Development, potrivire directă la nivel entry."
   },
   {
     "url": "https://jobs.borgdesign.ro/#pos_2",
@@ -132,104 +26,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:10:05.433Z",
+    "date": "2026-10-24T10:27:50.368Z",
     "status": "scraped",
     "tags": [
-      "programare",
-      "web"
+      "programare web",
+      "OOP"
     ],
-    "matchPercentage": 85,
-    "reason": "Junior Web Developer .NET/C# - potrivit nivelului entry-level."
+    "matchPercentage": 90,
+    "reason": "Dezvoltare web în .NET și C#, utilizând concepte OOP, potrivit pentru inginerie software."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
-    "title": "AI and Cloud Development Engineer - Remote",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:21:13.354Z",
-    "status": "scraped",
-    "tags": [
-      "AI/ML",
-      "cloud"
-    ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltare AI si cloud, potrivire directa cu competentele de AI si arhitectura cloud."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
-    "title": "Working Student in Embedded Software Development - High Level",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering",
+    "title": "Working Student Data Engineering",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:21:13.354Z",
+    "date": "2026-10-24T10:40:08.109Z",
     "status": "scraped",
     "tags": [
-      "embedded",
-      "programare"
+      "Big Data",
+      "automatizări"
     ],
-    "matchPercentage": 75,
-    "reason": "Dezvoltare embedded relevanta pentru sisteme si programare."
-  },
-  {
-    "url": "https://jobs.borgdesign.ro/#pos_10",
-    "title": "SQL Developer",
-    "company": "BORG DESIGN SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:10:05.433Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "baze de date"
-    ],
-    "matchPercentage": 75,
-    "reason": "SQL Developer - potrivit parțial, se bazează pe baze de date."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270009/Booking-Holdings/Booking-Holdings-Romania---Cybersecurity-Incident-Responder-II,-Enterprise-Security",
-    "title": "Booking Holdings Romania - Cybersecurity Incident Responder II, Enterprise Security",
-    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:52.212Z",
-    "status": "scraped",
-    "tags": [
-      "Securitate",
-      "Forensic"
-    ],
-    "matchPercentage": 75,
-    "reason": "Incident response tehnic, potrivit parțial pentru nivel mid/junior."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant",
-    "title": "AI &amp; Automation Technical Consultant",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:21:13.354Z",
-    "status": "scraped",
-    "tags": [
-      "inteligenta artificiala",
-      "automatizare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Consultant AI si automatizare, foloseste direct competentele de AI si automatizare la nivel potrivit."
+    "matchPercentage": 90,
+    "reason": "Data Engineering, potrivit pentru Big Data, automatizări și dezvoltare software."
   },
   {
     "url": "https://jobs.rinf.tech/231989",
@@ -244,45 +66,117 @@
     "status": "scraped",
     "tags": [
       "machine learning",
-      "sisteme AI"
+      "embedded"
     ],
-    "matchPercentage": 70,
-    "reason": "Integrare platforma AI/ML, cu aplicare directa a competentelor de machine learning si sisteme AI, fara cerinta de senior."
+    "matchPercentage": 90,
+    "reason": "Integrarea Embedded AI/ML foloseste direct competentele de machine learning."
   },
   {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
-    "title": "CDSClear Web Quality Assurance Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:40:08.109Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "programare performanță"
+    ],
+    "matchPercentage": 86,
+    "reason": "Inginerie AI embedded mid-level, cu machine learning și programare de performanță."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
+    "title": "Working Student in Embedded Software Development - High Level",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:40:08.109Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "realitate virtuală"
+    ],
+    "matchPercentage": 85,
+    "reason": "Dezvoltare software embedded și VR la nivel de working student, aliniat competențelor."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:06.239Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "sisteme inteligente"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginerie AI embedded mid-level, relevantă pentru machine learning și sisteme inteligente."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant",
+    "title": "AI &amp; Automation Technical Consultant",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:40:08.109Z",
+    "status": "scraped",
+    "tags": [
+      "AI",
+      "automatizare"
+    ],
+    "matchPercentage": 85,
+    "reason": "AI și automatizare, domeniu direct relevant."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_10",
+    "title": "SQL Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:27:50.368Z",
+    "status": "scraped",
+    "tags": [
+      "baze de date",
+      "SQL"
+    ],
+    "matchPercentage": 75,
+    "reason": "Dezvoltare SQL pentru aplicații, relevant parțial pentru lucrul cu baze de date."
+  },
+  {
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/DevOps-Engineer_R0121181-1",
+    "title": "DevOps Engineer",
     "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-23T11:22:21.546Z",
+    "date": "2026-10-24T10:41:19.893Z",
     "status": "scraped",
     "tags": [
-      "testare software",
-      "verificare si validare"
+      "DevOps",
+      "Cloud computing"
     ],
-    "matchPercentage": 65,
-    "reason": "Inginer QA pe aplicatie web, potriveste partial cu competentele de testare si verificare software la nivel adecvat."
-  },
-  {
-    "url": "https://careers.ey.com/ey/job/Bucharest-Junior-Consultant-Cybersecurity-Governance%2C-Risk-&amp;amp;-Compliance-011171/1417722433/",
-    "title": "Junior Consultant - Cybersecurity Governance, Risk &amp;amp; Compliance",
-    "company": "EY SOLAR INVESTMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:41.477Z",
-    "status": "scraped",
-    "tags": [
-      "Securitate",
-      "GRC"
-    ],
-    "matchPercentage": 65,
-    "reason": "Domeniul securității se potrivește parțial, dar sarcinile sunt preponderent GRC."
+    "matchPercentage": 75,
+    "reason": "Rolul de DevOps Engineer acopera CI/CD, infrastructura ca cod si GitOps, potrivindu-se cu competentele de cloud si automatizare."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269448/eMAG/Linux-Engineer-(Database-Team,-Cybersecurity-&amp;-Infrastructure)",
@@ -296,28 +190,28 @@
     "date": "2026-10-17T12:04:32.060Z",
     "status": "scraped",
     "tags": [
-      "administrarea sistemelor",
-      "securitatea retelelor"
+      "securitatea retelelor",
+      "administrarea sistemelor"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol de infrastructură Linux cu componentă de securitate și administrare de sisteme, parțial relevant pentru competențele tale."
+    "matchPercentage": 72,
+    "reason": "Rolul combina infrastructura Linux, securitatea retelelor si administrarea sistemelor, competente relevante pentru profilul tau."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
-    "title": "System Administrator L2",
-    "company": "E-INFRA S.A.",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Web Quality Assurance Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-23T11:25:39Z",
+    "date": "2026-10-24T10:41:19.893Z",
     "status": "scraped",
     "tags": [
-      "administrare sisteme",
-      "securitate retele"
+      "testare",
+      "QA"
     ],
-    "matchPercentage": 65,
-    "reason": "Administrator de sisteme L2 cu minim 3 ani experienta, relevant partial pentru administrarea sistemelor si securitatea retelelor."
+    "matchPercentage": 70,
+    "reason": "QA web, se potrivește parțial cu testarea software."
   },
   {
     "url": "https://ppc.jobful.io/company/ppc-energy/jobs/ot-cybersecurity-administrator",
@@ -331,32 +225,31 @@
     "date": "2026-10-17T12:13:56.524Z",
     "status": "scraped",
     "tags": [
-      "Securitate",
-      "OT"
+      "Network security",
+      "System administration"
     ],
-    "matchPercentage": 62,
-    "reason": "Securitate OT, dar preponderent administrare și monitorizare."
+    "matchPercentage": 70,
+    "reason": "Administrarea solutiilor OT de securitate, precum firewall, SIEM si IDS/IPS, foloseste direct competentele de securitate a retelelor si administrare de sisteme."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer",
     "title": "Automation &amp; Robotics Engineer",
-    "company": "DEN BOSCH GROUP SRL",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Blaj",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:08:14.588Z",
+    "date": "2026-10-24T10:40:08.109Z",
     "status": "scraped",
     "tags": [
-      "roboti inteligenti",
-      "automation"
+      "robotica",
+      "automatizare"
     ],
-    "matchPercentage": 62,
-    "reason": "Rol de automatizare si robotica, partial relevant pentru competentele de roboti inteligenti, dar orientat spre productie."
+    "matchPercentage": 70,
+    "reason": "Automatizarea si robotica se potrivesc cu cursul de sisteme inteligente."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272551/Bosch-Romania/Automation-&amp;-Robotics-Engineer",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/automation-robotics-engineer/100992",
     "title": "Automation &amp; Robotics Engineer",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
@@ -364,13 +257,102 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:06:16.908Z",
+    "date": "2026-10-17T12:15:58.642Z",
     "status": "scraped",
     "tags": [
-      "roboti inteligenti",
-      "automation"
+      "robotica",
+      "automatizare"
     ],
-    "matchPercentage": 60,
-    "reason": "Inginer automatizare si robotica cu 1-5 ani experienta, potrivire partiala pe robotica la nivel junior/mid."
+    "matchPercentage": 70,
+    "reason": "Automatizarea si robotica se potrivesc cu cursul de sisteme inteligente."
+  },
+  {
+    "url": "https://careerromania.autoliv.com/jobs/6274024-cybersecurity-engineer",
+    "title": "Cybersecurity Engineer",
+    "company": "AUTOLIV BAC S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:16.340Z",
+    "status": "scraped",
+    "tags": [
+      "Cybersecurity",
+      "Requirements engineering"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rolul de cybersecurity engineering fara nivel senior se potriveste partial, dar standardele automotive si ISO/SAE 21434 nu sunt competente directe."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
+    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:40:08.109Z",
+    "status": "scraped",
+    "tags": [
+      "computer vision",
+      "embedded"
+    ],
+    "matchPercentage": 65,
+    "reason": "ADAS se leaga partial de computer vision, insa accentul este pe embedded."
+  },
+  {
+    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
+    "title": "Industrial Automation &amp; Embedded Systems Engineer",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-21T11:10:18.139Z",
+    "status": "scraped",
+    "tags": [
+      "robotica",
+      "embedded"
+    ],
+    "matchPercentage": 65,
+    "reason": "Automatizarea industriala se leaga partial de sisteme inteligente si embedded."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
+    "title": "System Administrator L2",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:44:47Z",
+    "status": "scraped",
+    "tags": [
+      "administrarea sistemelor",
+      "securitatea rețelelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Administrare de sisteme și rețele, relevantă pentru competențele de administrare a sistemelor și securitate a rețelelor, la nivel mid."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/network-technician-level-1-support/406/",
+    "title": "Network technician – Level 1 Support",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:34.950Z",
+    "status": "scraped",
+    "tags": [
+      "securitate rețele",
+      "administrare sisteme"
+    ],
+    "matchPercentage": 62,
+    "reason": "Tehnician de rețea entry-level, potrivire parțială pe rețelistică și administrarea sistemelor."
   }
 ]
