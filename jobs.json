@@ -1,5 +1,95 @@
 [
   {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "deep learning",
+      "computer vision"
+    ],
+    "matchPercentage": 95,
+    "reason": "Working student în deep learning și data science pentru ADAS, cu potrivire directă pe machine learning și computer vision."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "computer vision",
+      "machine learning"
+    ],
+    "matchPercentage": 88,
+    "reason": "Working student pe software embedded ADAS cu componente AI și computer vision, relevant pentru specializarea ta."
+  },
+  {
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859",
+    "title": "Thales Technology Internship: Software Development, Testing &amp; IT Operations",
+    "company": "THALES DIS ROMANIA S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-09T09:01:37Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "DevOps"
+    ],
+    "matchPercentage": 85,
+    "reason": "Internship în dezvoltare software, testare și operațiuni IT, cu tehnologii și practici relevante pentru competențele tale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "AI generativ",
+      "cloud"
+    ],
+    "matchPercentage": 82,
+    "reason": "Dezvoltarea AI și cloud cu agenți AI se potrivește direct pe AI generativ, LLM și cloud."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
+    "title": "PROGRAMATOR AJUTOR",
+    "company": "SOBIS AP S.R.L.",
+    "location": [
+      "SIBIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:57:28.715Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "programare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rol de programator la nivel de entry cu experiență sub 3 ani, în domeniul dezvoltării software."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3445889",
     "title": "PROGRAMATOR AJUTOR",
     "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
@@ -8,30 +98,134 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T07:05:28.408Z",
+    "date": "2026-11-13T13:56:40.454Z",
     "status": "scraped",
     "tags": [
       "inginerie software",
       "programare"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol de programator ajutor la nivel de început, care se bazează pe competențe de inginerie software și programare."
+    "matchPercentage": 80,
+    "reason": "Rol de programator ajutor cu experiență sub 3 ani, potrivit pentru început de carieră în software."
   },
   {
-    "url": "https://careers.epam.com/en/vacancy/network-security-operations-engineer-blt4cqm77w8oz9r5qpz_en",
-    "title": "Network Security Operations Engineer",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Web Quality Assurance Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T09:32:51.760Z",
+    "date": "2026-11-13T14:22:38.464Z",
     "status": "scraped",
     "tags": [
-      "securitate rețele",
-      "administrare sisteme"
+      "testare software",
+      "calitate software"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rolul de QA web folosește direct testarea software și calitatea software, la un nivel compatibil entry/mid."
+  },
+  {
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/QA-Automation-Engineer---Break-It-Before-the-World-Does_R0333983",
+    "title": "QA Automation Engineer | Break It Before the World Does",
+    "company": "THALES DIS ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-15T09:01:39Z",
+    "status": "scraped",
+    "tags": [
+      "testare software",
+      "verificare software"
+    ],
+    "matchPercentage": 72,
+    "reason": "QA automation cu 2+ ani experiență, aliniat competențelor de testare software și verificare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
+    "title": "PROGRAMATOR",
+    "company": "SOBIS SOLUTIONS SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:28:17.118Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "design patterns"
     ],
     "matchPercentage": 68,
-    "reason": "Rol de securitate a rețelelor și infrastructurii, de nivel mid, potrivit competențelor de securitate și administrare sisteme."
+    "reason": "Dezvoltare software .NET la nivel sub 3 ani, deși cerințele tehnice sunt relativ avansate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant",
+    "title": "AI &amp; Automation Technical Consultant",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "inteligenta artificiala",
+      "automatizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Consultanța tehnică pentru cazuri AI și automatizare folosește competențe de AI și automatizare, fără a fi rol senior."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer",
+    "title": "Automation &amp; Robotics Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "roboti inteligenti",
+      "sisteme inteligente"
+    ],
+    "matchPercentage": 66,
+    "reason": "Inginerie robotics/automation foloseste competente de roboti inteligenti si sisteme inteligente, cu potrivire partiala pe partea software."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:36:31.198Z",
+    "status": "scraped",
+    "tags": [
+      "programare performanta",
+      "IoT"
+    ],
+    "matchPercentage": 65,
+    "reason": "Software engineering embedded in C pentru aviatie, cu relevanta partiala prin programarea orientata spre performanta si IoT, nivel de entry/mid."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
+    "title": "System Administrator L2",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:25:44Z",
+    "status": "scraped",
+    "tags": [
+      "administrare sisteme",
+      "securitate retele"
+    ],
+    "matchPercentage": 60,
+    "reason": "Administrare si securitate a sistemelor/retelor se potriveste partial, dar rol L2 cere minim 3 ani si include mult suport IT generic."
   }
 ]
