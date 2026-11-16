@@ -8,32 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
       "deep learning",
       "computer vision"
     ],
-    "matchPercentage": 92,
-    "reason": "Working student in deep learning si data science cu retele neuronale pentru computer vision, limbaj, radar si lidar."
-  },
-  {
-    "url": "https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1",
-    "title": "Software Engineer Intern",
-    "company": "TAKTILE S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:06:21.029Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme distribuite",
-      "programare web"
-    ],
-    "matchPercentage": 90,
-    "reason": "Internship pe backend Python/FastAPI, sisteme distribuite si cloud AWS, potrivire directa pe domeniu si nivel."
+    "matchPercentage": 95,
+    "reason": "Working student în deep learning și data science, cu antrenare de rețele neuronale pentru viziune și limbaj."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
@@ -44,31 +26,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
       "computer vision",
-      "programare performanta"
+      "IoT"
     ],
-    "matchPercentage": 82,
-    "reason": "Working student pe software embedded ADAS, cu dezvoltare de componente AI si computer vision pe hardware dedicat."
-  },
-  {
-    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/QA-Automation-Engineer---Break-It-Before-the-World-Does_R0333983",
-    "title": "QA Automation Engineer | Break It Before the World Does",
-    "company": "THALES DIS ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-15T12:35:44Z",
-    "status": "scraped",
-    "tags": [
-      "testare software",
-      "automatizare"
-    ],
-    "matchPercentage": 80,
-    "reason": "QA automation engineering with Selenium/Cypress, API testing and CI directly matches software testing and verification competences at a junior/mid level."
+    "matchPercentage": 90,
+    "reason": "Working student pentru componente AI/computer vision pe hardware embedded, direct relevant pentru profilul tău."
   },
   {
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859",
@@ -79,14 +44,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-09T12:35:42Z",
+    "date": "2026-11-09T13:01:30Z",
     "status": "scraped",
     "tags": [
       "inginerie software",
       "testare software"
     ],
-    "matchPercentage": 78,
-    "reason": "Internship in dezvoltare software, testare si IT operations, cu activitati directe de inginerie software, testare si DevOps."
+    "matchPercentage": 85,
+    "reason": "Internship în dezvoltare software, testare și operațiuni IT, cu tehnologii și practici DevOps/Agile direct relevante."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:45:27.217Z",
+    "status": "scraped",
+    "tags": [
+      "AI generativ",
+      "cloud computing"
+    ],
+    "matchPercentage": 85,
+    "reason": "Dezvoltare AI și cloud cu agenți și LLM, potrivire directă pe competențele de AI/cloud."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
@@ -96,67 +79,48 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T12:33:20.328Z",
+    "date": "2026-11-15T12:59:52.441Z",
     "status": "scraped",
     "tags": [
-      "design patterns",
-      "inginerie software"
+      "ingineria software",
+      "design patterns"
     ],
-    "matchPercentage": 72,
-    "reason": "Dezvoltare C#/.NET entry-level cu design patterns si SQL, direct relevanta pentru competentele de inginerie software."
+    "matchPercentage": 82,
+    "reason": "Dezvoltare software cu C#/.NET, SQL Server și design patterns, cu experiență cerută sub 3 ani."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd",
-    "title": "System Administrator L2",
-    "company": "E-INFRA S.A.",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Web Quality Assurance Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T15:08:18Z",
+    "date": "2026-11-15T13:46:53.972Z",
     "status": "scraped",
     "tags": [
-      "administrarea sistemelor",
-      "securitatea retelelor"
+      "testare software",
+      "calitate software"
     ],
     "matchPercentage": 72,
-    "reason": "Administrarea sistemelor și rețelelor se potrivește direct, iar cerința de 3 ani experiență se încadrează la nivel mid."
+    "reason": "Inginer QA web cu testare, verificare și validare software, nivel potrivit unui absolvent."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/Endava/744000135015569",
-    "title": "Python Development Consultant",
-    "company": "ENDAVA ROMANIA SRL",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/QA-Automation-Engineer---Break-It-Before-the-World-Does_R0333983",
+    "title": "QA Automation Engineer | Break It Before the World Does",
+    "company": "THALES DIS ROMANIA S.R.L.",
     "location": [
-      "București",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-14T15:05:22.772Z",
+    "date": "2026-10-16T13:01:32Z",
     "status": "scraped",
     "tags": [
-      "inginerie software",
-      "programare web"
+      "testare software",
+      "automatizare"
     ],
-    "matchPercentage": 70,
-    "reason": "Dezvoltare software Python relevant, nivel de consultant compatibil cu mid."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Endava/744000110162140",
-    "title": "Development Consultant Python",
-    "company": "ENDAVA ROMANIA SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:05:22.772Z",
-    "status": "scraped",
-    "tags": [
-      "inginerie software",
-      "programare web"
-    ],
-    "matchPercentage": 70,
-    "reason": "Dezvoltare software Python relevant, nivel de consultant compatibil cu mid."
+    "matchPercentage": 68,
+    "reason": "QA automation cu Selenium/Python si CI, foloseste direct testarea software, nivel 2+ ani acceptabil."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
@@ -167,139 +131,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T12:59:23.092Z",
+    "date": "2026-11-15T13:28:09.775Z",
     "status": "scraped",
     "tags": [
-      "inginerie software",
-      "dezvoltare web"
+      "ingineria software"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de programator entry-level (sub 3 ani), in domeniul dezvoltarii software, potrivit competentelor de inginerie software."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/LWJJiTCyF7",
-    "title": "Network &amp; Security Engineer – OT / Industrial Networks",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:18Z",
-    "status": "scraped",
-    "tags": [
-      "securitate retele",
-      "administrare sisteme"
-    ],
-    "matchPercentage": 65,
-    "reason": "Inginerie de securitate a retelelor industriale, potrivire partiala cu competentele de securitate a retelelor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd",
-    "title": "Network &amp; Security Engineer – OT / Industrial Networks",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:18Z",
-    "status": "scraped",
-    "tags": [
-      "securitate retele",
-      "administrare sisteme"
-    ],
-    "matchPercentage": 65,
-    "reason": "Inginerie de securitate a retelelor industriale, potrivire partiala cu competentele de securitate a retelelor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3445889",
-    "title": "PROGRAMATOR AJUTOR",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:56:40.454Z",
-    "status": "scraped",
-    "tags": [
-      "inginerie software",
-      "dezvoltare web"
-    ],
-    "matchPercentage": 63,
-    "reason": "Rol de programator ajutor entry-level (sub 3 ani) in dezvoltare software, potrivit nivelului si domeniului."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/b8bddeaaff1201-software-development-engineer-ii-net",
-    "title": "Software Development Engineer II (.NET)",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:01.464Z",
-    "status": "scraped",
-    "tags": [
-      "inginerie software",
-      "dezvoltare web"
-    ],
-    "matchPercentage": 63,
-    "reason": ".NET development de nivel mid (SDE II) cu testare si performanta, partial potrivit competentelor de inginerie software."
-  },
-  {
-    "url": "https://axon-soft.com/qa-automation/",
-    "title": "QA Automation Engineer",
-    "company": "AXON SOFT SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:07:26.600Z",
-    "status": "scraped",
-    "tags": [
-      "testare software",
-      "verificare validare"
-    ],
-    "matchPercentage": 63,
-    "reason": "QA Automation foloseste direct competentele de testare software, nivel mid la limita superioara."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/a17da8d3207301-software-development-engineer-ii-web",
-    "title": "Software Development Engineer II (Web)",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:01.464Z",
-    "status": "scraped",
-    "tags": [
-      "programare web",
-      "web design adaptiv"
-    ],
-    "matchPercentage": 62,
-    "reason": "Dezvoltare web front-end de nivel mid, relevanta pentru programarea web si web design adaptiv."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
-    "title": "Working Student Digitalization for Logistics",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
-    "status": "scraped",
-    "tags": [
-      "automatizare business",
-      "vizualizare date"
-    ],
-    "matchPercentage": 62,
-    "reason": "Digitalizare logistica cu automatizarea rapoartelor si dashboarduri Power BI, potrivire partiala pe automatizare si date."
+    "reason": "Post de programator pentru începători, cu experiență sub 3 ani, dar fără detalii despre tehnologii."
   },
   {
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/Database-Engineer_R0340640-1",
@@ -310,13 +148,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-15T12:35:44Z",
+    "date": "2026-10-16T13:01:32Z",
     "status": "scraped",
     "tags": [
-      "DevOps",
-      "administrare sisteme"
+      "cloud",
+      "DevOps"
     ],
-    "matchPercentage": 62,
-    "reason": "Database administration/DevOps automation role using infrastructure and systems administration skills, at a non-senior level with partial fit to cloud/DevOps competences."
+    "matchPercentage": 60,
+    "reason": "Administrare baze de date cu automatizare DevOps si cloud, potrivire partiala pe infrastructura, nivel mid."
   }
 ]
