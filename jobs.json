@@ -14,8 +14,8 @@
       "inginerie software",
       "programare web"
     ],
-    "matchPercentage": 95,
-    "reason": "Poziție Software Engineer New Grad, entry-level în dezvoltare software și aliniată competențelor tehnice."
+    "matchPercentage": 88,
+    "reason": "Pozitie Software Engineer pentru absolventi noua, domeniu direct si nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
@@ -32,26 +32,25 @@
       "inginerie software",
       "programare web"
     ],
-    "matchPercentage": 95,
-    "reason": "Internship de Software Engineer la nivel potrivit, direct relevant pentru competențele de dezvoltare software."
+    "matchPercentage": 88,
+    "reason": "Internatura Software Engineer la Stripe, domeniu direct si nivel potrivit."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
+    "title": "PROGRAMATOR",
+    "company": "SOBIS SOLUTIONS SRL",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
+    "date": "2026-11-19T14:44:19.166Z",
     "status": "scraped",
     "tags": [
-      "deep learning",
-      "computer vision"
+      "design patterns",
+      "inginerie software"
     ],
-    "matchPercentage": 95,
-    "reason": "Poziție de working student în deep learning și data science pentru ADAS, aliniată direct cu competențele de machine learning și computer vision."
+    "matchPercentage": 85,
+    "reason": "Dezvoltator C#/.NET cu sub 3 ani experienta care foloseste direct design patterns, SOLID si arhitecturi software."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
@@ -68,43 +67,26 @@
       "inginerie software",
       "design patterns"
     ],
-    "matchPercentage": 90,
-    "reason": "Internship în inginerie software, cu nivel și domeniu direct potrivite pentru un student la matematică și informatică."
+    "matchPercentage": 85,
+    "reason": "Internship de inginerie software, domeniu direct relevant si nivel adecvat."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
-    "title": "PROGRAMATOR",
-    "company": "SOBIS SOLUTIONS SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:57:07.187Z",
-    "status": "scraped",
-    "tags": [
-      "design patterns",
-      "inginerie software"
-    ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltare .NET/C# cu design patterns și arhitecturi software, cu sub 3 ani experiență, potrivire directă."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
     "company": "ROBERT BOSCH SRL",
     "location": [
-      "Cluj-Napoca",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
+    "date": "2026-11-19T15:32:08.047Z",
     "status": "scraped",
     "tags": [
-      "computer vision",
-      "AI"
+      "LLM",
+      "Cloud"
     ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltare de componente software embedded pentru soluții AI/CV în ADAS, potrivită competențelor de AI și programare orientată spre performanță."
+    "matchPercentage": 84,
+    "reason": "Dezvoltare AI si cloud cu LLM, domeniu direct relevant si nivel de engineer acceptabil."
   },
   {
     "url": "https://jobs.rinf.tech/240516",
@@ -118,29 +100,28 @@
     "date": "2026-11-17T13:26:28Z",
     "status": "tested",
     "tags": [
-      "criptografie cu cheie publica",
+      "criptografie",
       "testare software"
     ],
-    "matchPercentage": 78,
-    "reason": "Testarea criptografiei valorifică direct criptografia cu cheie publică și testarea software."
+    "matchPercentage": 82,
+    "reason": "Testarea criptografica imbina criptografia si testarea software, ambele competente directe din profil, la nivel de developer."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
-    "title": "Salesforce Developer Internship - Bitdefender",
-    "company": "ENTRY SRL",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Web Quality Assurance Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
-      "Bucuresti",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
+    "date": "2026-11-19T15:33:55.319Z",
+    "status": "scraped",
     "tags": [
-      "inginerie software",
-      "programare web"
+      "Testare software",
+      "Programare web"
     ],
-    "matchPercentage": 72,
-    "reason": "Internship de dezvoltare software potrivit ca nivel, cu sarcini de programare relevante chiar dacă implică platforma Salesforce."
+    "matchPercentage": 78,
+    "reason": "Rol de QA web care foloseste direct testarea software si programarea web, la nivel de engineer."
   },
   {
     "url": "https://thecoders.ro/en/joburi/qa-automation-engineer-cluj.html",
@@ -155,28 +136,28 @@
     "status": "tested",
     "tags": [
       "testare software",
-      "verificare si validare"
+      "calitate software"
     ],
-    "matchPercentage": 72,
-    "reason": "QA Automation Engineer pentru e-commerce folosește direct testarea software și automatizarea verificării."
+    "matchPercentage": 75,
+    "reason": "QA Automation Engineer foloseste direct testarea software si verificarea/validarea, la nivel engineer entry-mid."
   },
   {
-    "url": "https://axon-soft.com/qa-automation/",
-    "title": "QA Automation Engineer",
-    "company": "AXON SOFT SRL",
+    "url": "https://jobs.rinf.tech/240537",
+    "title": "Embedded Security Firmware Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
-      "Cluj-Napoca",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:46:34.912Z",
-    "status": "scraped",
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
     "tags": [
-      "testare software",
-      "calitate software"
+      "securitate retele",
+      "criptografie"
     ],
-    "matchPercentage": 68,
-    "reason": "QA Automation Engineer mid-level, direct pe testare software, cu cerință de 3+ ani la limita superioară."
+    "matchPercentage": 66,
+    "reason": "Firmware-ul de securitate foloseste partial securitatea sistemelor si criptografia, domeniu relevant la nivel engineer."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
@@ -187,12 +168,82 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:31:11.011Z",
+    "date": "2026-11-19T15:17:13.934Z",
     "status": "scraped",
     "tags": [
       "inginerie software"
     ],
-    "matchPercentage": 60,
-    "reason": "Poziție de programator începător cu sub 3 ani experiență, în domeniul software, dar fără sarcini tehnice detaliate în anunț."
+    "matchPercentage": 65,
+    "reason": "Rol de programator ajutor intr-o companie software, nivel junior cu sub 3 ani experienta, dar fara sarcini tehnice descrise explicit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
+    "title": "Salesforce Developer Internship - Bitdefender",
+    "company": "ENTRY SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:05Z",
+    "status": "tested",
+    "tags": [
+      "programare web",
+      "inginerie software"
+    ],
+    "matchPercentage": 65,
+    "reason": "Internship de dezvoltare Salesforce, domeniu software partial relevant si nivel entry-level potrivit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271085/Siemens-Energy/Industrial-Cybersecurity-Risk-Analyst",
+    "title": "Industrial Cybersecurity Risk Analyst",
+    "company": "SIEMENS ENERGY S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:56:51Z",
+    "status": "tested",
+    "tags": [
+      "securitate retele"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de analist in securitate cibernetica industriala, fara cerinte senior, care foloseste cunostinte de securitate a retelelor."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer",
+    "title": "Automation &amp; Robotics Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-19T15:32:08.047Z",
+    "status": "scraped",
+    "tags": [
+      "roboti inteligenti",
+      "sisteme inteligente"
+    ],
+    "matchPercentage": 64,
+    "reason": "Ingineria roboticii si automatizarii foloseste partial sistemele inteligente si robotii inteligenti din profil."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769",
+    "title": "Automation și Robotics Engineer",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Blaj",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:08:04Z",
+    "status": "tested",
+    "tags": [
+      "roboti inteligenti",
+      "sisteme inteligente"
+    ],
+    "matchPercentage": 64,
+    "reason": "Rolul de Automation si Robotics Engineer se apropie de competentele de sisteme inteligente si roboti inteligenti."
   }
 ]
