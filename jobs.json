@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
-    "title": "Software Engineering Internship - BearingPoint",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
     "tags": [
-      "Inginerie software",
-      "Programare web"
+      "deep learning",
+      "computer vision"
     ],
-    "matchPercentage": 85,
-    "reason": "Stagiu de inginerie software la BearingPoint, domeniu direct și nivel entry-level."
+    "matchPercentage": 95,
+    "reason": "Working student care proiecteaza si antreneaza retele neurale pentru vision/radar/lidar/limbaj, potrivire directa cu ML, deep learning si NLP."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
@@ -29,11 +29,11 @@
     "date": "2026-11-17T15:36:05Z",
     "status": "tested",
     "tags": [
-      "Inginerie software",
-      "Sisteme distribuite"
+      "inginerie software",
+      "programare web"
     ],
-    "matchPercentage": 85,
-    "reason": "Poziție New Grad de Software Engineer la Stripe, domeniu direct și nivel entry-level."
+    "matchPercentage": 90,
+    "reason": "Poziție Software Engineer pentru new grads, domeniu direct relevant și nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
@@ -47,11 +47,100 @@
     "date": "2026-11-17T14:25:59Z",
     "status": "tested",
     "tags": [
-      "Inginerie software",
-      "Sisteme distribuite"
+      "inginerie software",
+      "programare web"
+    ],
+    "matchPercentage": 90,
+    "reason": "Internship Software Engineer la Stripe, domeniu și nivel de entry-level ideale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
+    "tags": [
+      "AI generativ",
+      "cloud"
+    ],
+    "matchPercentage": 90,
+    "reason": "Dezvoltare AI si cloud cu agenti Google AgentSpace, folosind direct sistemele AI generative si arhitectura cloud la nivel de engineer."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
+    "title": "Software Engineering Internship - BearingPoint",
+    "company": "ENTRY SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:05Z",
+    "status": "tested",
+    "tags": [
+      "inginerie software",
+      "design patterns"
+    ],
+    "matchPercentage": 88,
+    "reason": "Internship de inginerie software, domeniu și nivel perfect potrivite pentru student la anii mari."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
+    "tags": [
+      "computer vision",
+      "machine learning"
     ],
     "matchPercentage": 85,
-    "reason": "Poziție de intern Software Engineer la Stripe, domeniu direct și nivel de stagiu."
+    "reason": "Dezvoltare si mentenanta de componente AI/computer vision pe hardware embedded, potrivit direct pentru un student cu profil AI."
+  },
+  {
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Web Quality Assurance Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:24:18.933Z",
+    "status": "scraped",
+    "tags": [
+      "testare software",
+      "programare web"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol hands-on de inginer QA web care foloseste direct testarea software si calitatea sistemelor software."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240516",
+    "title": "Embedded Software Developer for Cryptography Testing",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "criptografie",
+      "testare software"
+    ],
+    "matchPercentage": 82,
+    "reason": "Testarea criptografică folosește direct criptografia și testarea software, la nivel entry/mid."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
@@ -65,10 +154,132 @@
     "date": "2026-11-17T15:36:05Z",
     "status": "tested",
     "tags": [
-      "Programare web",
-      "Inginerie software"
+      "programare web",
+      "inginerie software"
+    ],
+    "matchPercentage": 75,
+    "reason": "Internship de dezvoltare Salesforce, domeniu de inginerie software și nivel entry-level potrivite."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_1",
+    "title": "Senior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:13:34.716Z",
+    "status": "scraped",
+    "tags": [
+      "programare web",
+      "testare software"
+    ],
+    "matchPercentage": 75,
+    "reason": "Anuntul include si un rol de Junior Web Developer pentru studenti/absolventi de informatica, cu dezvoltare ASP.NET/C# si testare."
+  },
+  {
+    "url": "https://apply.workable.com/j/982F563B19",
+    "title": "Spontaneous application - IT Professionals",
+    "company": "FME SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:15:58.449Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "DevOps"
     ],
     "matchPercentage": 70,
-    "reason": "Internship de dezvoltare pe platforma Salesforce, cu nivel potrivit și domeniu care acoperă parțial programarea web și ingineria software."
+    "reason": "Aplicatie spontana pentru roluri de software development, DevOps, QA, cloud si data, domenii care se potrivesc direct, inclusiv pentru juniori."
+  },
+  {
+    "url": "https://www.artsoft-consult.ro/contact/internship-cv",
+    "title": "Internship",
+    "company": "ARTSOFT CONSULT SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:41.353Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software"
+    ],
+    "matchPercentage": 65,
+    "reason": "Program de internship la o firmă de consultanță software, dar fără sarcini tehnice descrise, potrivire doar parțială."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162451729-it-operations-and-security-management",
+    "title": "IT Operations and Security Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
+    "tags": [
+      "securitate cibernetica",
+      "administrare sisteme"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de suport in implementarea cerintelor de cybersecurity si operatiuni IT, potrivit partial pentru un student cu profil de securitate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
+    "title": "Working Student Production IT",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
+    "tags": [
+      "infrastructura",
+      "administrare sisteme"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working student pe infrastructura IT de productie, relevant partial pentru competenta de infrastructura si administrare sisteme."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240537",
+    "title": "Embedded Security Firmware Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "securitate",
+      "criptografie"
+    ],
+    "matchPercentage": 65,
+    "reason": "Securitatea firmware-ului se suprapune parțial cu securitatea și criptografia, iar nivelul este acceptabil."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:23:45.965Z",
+    "status": "scraped",
+    "tags": [
+      "analiza circuite"
+    ],
+    "matchPercentage": 60,
+    "reason": "Analizele electronice de laborator folosesc analiza circuitelor, iar nivelul de working student este potrivit."
   }
 ]
