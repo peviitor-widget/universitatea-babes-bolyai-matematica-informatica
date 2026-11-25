@@ -1,21 +1,56 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
-    "title": "AI and Cloud Development Engineer - Remote",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
+    "title": "Software Engineer, Intern - STRIPE",
+    "company": "ENTRY SRL",
     "location": [
-      "Timișoara",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-17T14:25:59Z",
+    "status": "tested",
+    "tags": [
+      "inginerie software",
+      "sisteme distribuite"
+    ],
+    "matchPercentage": 90,
+    "reason": "Internship de software engineer la Stripe, domeniu direct relevant si nivel potrivit."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
+    "title": "PROGRAMATOR",
+    "company": "SOBIS SOLUTIONS SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-24T16:31:55.015Z",
     "status": "scraped",
     "tags": [
-      "AI generativ",
-      "cloud"
+      "design patterns",
+      "inginerie software"
     ],
-    "matchPercentage": 92,
-    "reason": "Rol de dezvoltare AI și cloud care se potrivește direct cu competențele de AI generativ, LLM și cloud."
+    "matchPercentage": 85,
+    "reason": "Dezvoltare .NET/C# junior cu design patterns și arhitectură software, sub 3 ani experiență."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
+    "title": "Software Engineering Internship - BearingPoint",
+    "company": "ENTRY SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:05Z",
+    "status": "tested",
+    "tags": [
+      "inginerie software",
+      "testare software"
+    ],
+    "matchPercentage": 85,
+    "reason": "Internship de inginerie software, domeniu direct relevant si nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
@@ -32,62 +67,26 @@
       "inginerie software",
       "sisteme distribuite"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție de software engineer pentru absolvenți nouă, cu domeniu și nivel aliniate competențelor mele."
+    "matchPercentage": 85,
+    "reason": "Pozitie New Grad de software engineer, nivel entry-level si domeniu direct relevant."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
-    "title": "Software Engineer, Intern - STRIPE",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:25:59Z",
-    "status": "tested",
+    "date": "2026-11-24T17:21:07.291Z",
+    "status": "scraped",
     "tags": [
-      "inginerie software",
-      "programare web"
-    ],
-    "matchPercentage": 88,
-    "reason": "Internship de software engineer la Stripe, domeniu direct relevant și nivel de început."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
-    "title": "Software Engineering Internship - BearingPoint",
-    "company": "ENTRY SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
-    "tags": [
-      "inginerie software",
-      "design patterns"
+      "LLM",
+      "Cloud"
     ],
     "matchPercentage": 85,
-    "reason": "Stagiu de inginerie software cu activități de dezvoltare, potrivit ca domeniu și ca nivel."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270300/Hipo-Job-Finder/Expert-Cybersecurity-Engineer-in-Automotive-(F/M)---Marquardt",
-    "title": "Expert Cybersecurity Engineer in Automotive (F/M) - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:16:57Z",
-    "status": "tested",
-    "tags": [
-      "securitate retele",
-      "criptografie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Domeniul securitatii cibernetice se potriveste direct, iar intervalul 1-5 ani experienta include un profil mid."
+    "reason": "Dezvoltarea de aplicatii AI pe Google Cloud foloseste direct LLM-urile, NLP si arhitectura cloud, la nivel mid."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
@@ -104,42 +103,24 @@
       "inginerie software",
       "programare web"
     ],
-    "matchPercentage": 72,
-    "reason": "Internship de dezvoltare software pe platforma Salesforce, la nivel entry-level, cu sarcini de inginerie software."
-  },
-  {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
-    "title": "CDSClear Web Quality Assurance Engineer",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:50:20.749Z",
-    "status": "scraped",
-    "tags": [
-      "testare software",
-      "web"
-    ],
     "matchPercentage": 70,
-    "reason": "Rol de QA web relevant pentru testare și verificare software, cu nivel care pare potrivit pentru junior/mid."
+    "reason": "Internship de dezvoltare pe platforma Salesforce, domeniu software partial relevant, nivel potrivit."
   },
   {
-    "url": "https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe",
-    "title": "Clinical Database Programmer",
-    "company": "ALIMENTI ITALIA MARKET S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
+    "title": "PROGRAMATOR AJUTOR",
+    "company": "SOBIS AP S.R.L.",
     "location": [
-      "Bucuresti",
+      "SIBIU",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:44:59Z",
-    "status": "tested",
+    "date": "2026-11-24T16:59:21.807Z",
+    "status": "scraped",
     "tags": [
-      "inginerie",
-      "testare"
+      "inginerie software"
     ],
     "matchPercentage": 65,
-    "reason": "Rolul implică dezvoltarea, testarea și integrarea datelor în sisteme EDC, folosind direct ingineria și testarea software, la un nivel entry-level."
+    "reason": "Poziție entry-level de programator în software, dar fără sarcini tehnice detaliate."
   }
 ]
