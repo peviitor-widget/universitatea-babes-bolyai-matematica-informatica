@@ -12,10 +12,10 @@
     "status": "tested",
     "tags": [
       "inginerie software",
-      "sisteme distribuite"
+      "design patterns"
     ],
     "matchPercentage": 90,
-    "reason": "Internship de software engineer la Stripe, domeniu direct relevant si nivel potrivit."
+    "reason": "Interniat de software engineer la Stripe, potrivire directă între domeniu și nivel."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
@@ -25,14 +25,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-24T16:31:55.015Z",
+    "date": "2026-11-25T16:12:01.699Z",
     "status": "scraped",
     "tags": [
       "design patterns",
       "inginerie software"
     ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltare .NET/C# junior cu design patterns și arhitectură software, sub 3 ani experiență."
+    "matchPercentage": 88,
+    "reason": "Rol junior în .NET cu sub 3 ani experiență, care folosește direct SOLID, design patterns și arhitecturi software."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
@@ -47,10 +47,10 @@
     "status": "tested",
     "tags": [
       "inginerie software",
-      "testare software"
+      "design patterns"
     ],
-    "matchPercentage": 85,
-    "reason": "Internship de inginerie software, domeniu direct relevant si nivel entry-level."
+    "matchPercentage": 88,
+    "reason": "Stagiu de inginerie software cu domeniu direct relevant și nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
@@ -65,28 +65,46 @@
     "status": "tested",
     "tags": [
       "inginerie software",
-      "sisteme distribuite"
+      "design patterns"
     ],
     "matchPercentage": 85,
-    "reason": "Pozitie New Grad de software engineer, nivel entry-level si domeniu direct relevant."
+    "reason": "Poziție New Grad de software engineer la Stripe, nivel entry-level și domeniu direct relevant."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
-    "title": "AI and Cloud Development Engineer - Remote",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271085/Siemens-Energy/Industrial-Cybersecurity-Risk-Analyst",
+    "title": "Industrial Cybersecurity Risk Analyst",
+    "company": "SIEMENS ENERGY S.R.L.",
     "location": [
-      "Timișoara",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
+    "date": "2026-11-17T10:56:51Z",
+    "status": "tested",
+    "tags": [
+      "Securitate",
+      "Rețele"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rolul de analist de securitate industrială folosește direct cunoștințele de securitate a rețelelor și este la nivel entry/mid, fără cerințe de senioritate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3340124",
+    "title": "PROGRAMATOR DE SISTEM INFORMATIC",
+    "company": "SOBIS AP S.R.L.",
+    "location": [
+      "SIBIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:49:40.541Z",
     "status": "scraped",
     "tags": [
-      "LLM",
-      "Cloud"
+      "programare web",
+      "design patterns"
     ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltarea de aplicatii AI pe Google Cloud foloseste direct LLM-urile, NLP si arhitectura cloud, la nivel mid."
+    "matchPercentage": 75,
+    "reason": "Dezvoltare software .NET și Angular la nivel mid, cu 3-5 ani experiență, ușor peste ținta de aproximativ 3 ani."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
@@ -104,7 +122,7 @@
       "programare web"
     ],
     "matchPercentage": 70,
-    "reason": "Internship de dezvoltare pe platforma Salesforce, domeniu software partial relevant, nivel potrivit."
+    "reason": "Internship de dezvoltare software pe platforma Salesforce, domeniu parțial relevant și nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
@@ -115,12 +133,12 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T16:59:21.807Z",
+    "date": "2026-11-25T16:49:40.541Z",
     "status": "scraped",
     "tags": [
       "inginerie software"
     ],
     "matchPercentage": 65,
-    "reason": "Poziție entry-level de programator în software, dar fără sarcini tehnice detaliate."
+    "reason": "Rol de programator începător în dezvoltare software, cu sub 3 ani experiență, dar fără descrierea sarcinilor specifice."
   }
 ]
