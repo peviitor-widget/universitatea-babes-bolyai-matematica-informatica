@@ -1,21 +1,39 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
-    "title": "Software Engineer, Intern - STRIPE",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:25:59Z",
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "Deep learning",
+      "Computer vision"
+    ],
+    "matchPercentage": 96,
+    "reason": "Stagiu perfect aliniat: proiectarea și antrenarea rețelelor neuronale pentru ADAS, cu computer vision și limbaj."
+  },
+  {
+    "url": "https://tss-yonder.com/job/17829",
+    "title": "On-the-Job Trainee, Full-stack Developer",
+    "company": "YONDER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:19:13Z",
     "status": "tested",
     "tags": [
-      "inginerie software",
-      "design patterns"
+      "programare web",
+      "web design"
     ],
     "matchPercentage": 90,
-    "reason": "Interniat de software engineer la Stripe, potrivire directă între domeniu și nivel."
+    "reason": "Poziție de trainee full-stack developer, domeniu și nivel aliniate direct cu programarea web."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
@@ -25,104 +43,103 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-25T16:12:01.699Z",
+    "date": "2026-11-26T15:51:19.758Z",
     "status": "scraped",
     "tags": [
       "design patterns",
       "inginerie software"
     ],
     "matchPercentage": 88,
-    "reason": "Rol junior în .NET cu sub 3 ani experiență, care folosește direct SOLID, design patterns și arhitecturi software."
+    "reason": "Dezvoltare C#/.NET cu SOLID, design patterns și arhitecturi software, la sub 3 ani experiență."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
-    "title": "Software Engineering Internship - BearingPoint",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
     "tags": [
-      "inginerie software",
-      "design patterns"
+      "Computer vision",
+      "performanță"
     ],
     "matchPercentage": 88,
-    "reason": "Stagiu de inginerie software cu domeniu direct relevant și nivel entry-level."
+    "reason": "Dezvoltare de componente AI și computer vision embedded pentru ADAS, folosind viziunea artificială și programarea orientată spre performanță."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
-    "title": "Software Engineer, New Grad - STRIPE",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159377359-azure-cloud-developer-with-python",
+    "title": "Azure Cloud Developer with Python",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
     "tags": [
-      "inginerie software",
-      "design patterns"
+      "Cloud",
+      "Big Data"
     ],
-    "matchPercentage": 85,
-    "reason": "Poziție New Grad de software engineer la Stripe, nivel entry-level și domeniu direct relevant."
+    "matchPercentage": 88,
+    "reason": "Dezvoltator Azure Python pentru pipeline-uri de procesare a datelor in cloud, domeniu direct relevant si fara cerinte de senioritate."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271085/Siemens-Energy/Industrial-Cybersecurity-Risk-Analyst",
-    "title": "Industrial Cybersecurity Risk Analyst",
-    "company": "SIEMENS ENERGY S.R.L.",
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:56:51Z",
-    "status": "tested",
-    "tags": [
-      "Securitate",
-      "Rețele"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rolul de analist de securitate industrială folosește direct cunoștințele de securitate a rețelelor și este la nivel entry/mid, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3340124",
-    "title": "PROGRAMATOR DE SISTEM INFORMATIC",
-    "company": "SOBIS AP S.R.L.",
-    "location": [
-      "SIBIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:49:40.541Z",
+    "date": "2026-11-26T16:32:12.727Z",
     "status": "scraped",
     "tags": [
       "programare web",
-      "design patterns"
+      "OOP"
     ],
-    "matchPercentage": 75,
-    "reason": "Dezvoltare software .NET și Angular la nivel mid, cu 3-5 ani experiență, ușor peste ținta de aproximativ 3 ani."
+    "matchPercentage": 86,
+    "reason": "Poziție junior de dezvoltare web .NET pentru studenți/absolvenți, cu OOP, C# și testare, potrivită competenței mele de programare web."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273259/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Salesforce-Developer-Internship----Bitdefender",
-    "title": "Salesforce Developer Internship - Bitdefender",
-    "company": "ENTRY SRL",
+    "url": "https://jobs.borgdesign.ro/#pos_7",
+    "title": "Junior Developer AI",
+    "company": "BORG DESIGN SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
-    "status": "tested",
+    "date": "2026-11-26T16:32:12.727Z",
+    "status": "scraped",
     "tags": [
-      "inginerie software",
+      "machine learning",
       "programare web"
     ],
-    "matchPercentage": 70,
-    "reason": "Internship de dezvoltare software pe platforma Salesforce, domeniu parțial relevant și nivel entry-level."
+    "matchPercentage": 85,
+    "reason": "Titlul de Junior Developer AI vizează direct machine learning, iar nivelul junior se potrivește, chiar dacă descrierea pune accent pe web .NET."
+  },
+  {
+    "url": "https://apply.workable.com/j/FACE37AC40",
+    "title": "Manual QA Engineer (Mid-Level)",
+    "company": "SEDONA DIGITAL S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:37:15.636Z",
+    "status": "scraped",
+    "tags": [
+      "Testare software",
+      "Calitate software"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziție de QA Engineer mid-level care folosește direct competențele de testare software, verificare și validare, într-o companie cu profil software, cloud și AI."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
@@ -133,12 +150,119 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:49:40.541Z",
+    "date": "2026-11-26T16:26:02.478Z",
     "status": "scraped",
     "tags": [
       "inginerie software"
     ],
+    "matchPercentage": 80,
+    "reason": "Rol de programator ajutor la nivel entry-level în dezvoltare software, cu sub 3 ani experiență, deși descrierea sarcinilor e sumară."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_10",
+    "title": "SQL Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:32:12.727Z",
+    "status": "scraped",
+    "tags": [
+      "programare web",
+      "data mining"
+    ],
+    "matchPercentage": 76,
+    "reason": "Rol de dezvoltator SQL/web la nivel de junior, cu baze de date și aplicații .NET, relevant pentru competențele mele de date și programare web."
+  },
+  {
+    "url": "https://apply.workable.com/j/982F563B19",
+    "title": "Spontaneous application - IT Professionals",
+    "company": "FME SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:34:14.977Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software",
+      "DevOps"
+    ],
+    "matchPercentage": 75,
+    "reason": "Aplicare spontană pentru profiluri software, DevOps, cloud și date, exact domeniile mele, fără cerințe de senior."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
+    "title": "Working Student Production IT",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "DevOps",
+      "administrare sisteme"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rol de working student în IT de producție cu infrastructură, aproape de competențele mele de cloud și DevOps."
+  },
+  {
+    "url": "https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe",
+    "title": "Clinical Database Programmer",
+    "company": "ALIMENTI ITALIA MARKET S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:44:59Z",
+    "status": "tested",
+    "tags": [
+      "Testare software",
+      "Inginerie software"
+    ],
+    "matchPercentage": 70,
+    "reason": "Implică dezvoltare, testare și integrare de date în sisteme software, cu explorare de soluții AI, la un nivel aparent junior/mid."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
+    "title": "Working Student – Technical Project Administration",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "management proiecte",
+      "calitate software"
+    ],
+    "matchPercentage": 68,
+    "reason": "Administrarea tehnică de proiecte folosește management de proiecte software, configurare și calitate, competențe din planul meu de învățământ."
+  },
+  {
+    "url": "https://jobs-cee.pwc.com/ce/en/job/767931WD",
+    "title": "Database Administrator",
+    "company": "HANDRA PWC S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:30:27Z",
+    "status": "tested",
+    "tags": [
+      "Cloud",
+      "DevOps"
+    ],
     "matchPercentage": 65,
-    "reason": "Rol de programator începător în dezvoltare software, cu sub 3 ani experiență, dar fără descrierea sarcinilor specifice."
+    "reason": "Lucrează în echipa de infrastructură cloud cu automatizări și securitate, fără cerințe de senioritate, dar sarcinile rămân în principal de administrare SQL Server."
   }
 ]
