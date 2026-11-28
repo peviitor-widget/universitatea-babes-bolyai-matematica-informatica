@@ -8,14 +8,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
-      "Deep learning",
-      "Computer vision"
+      "deep learning",
+      "computer vision"
     ],
-    "matchPercentage": 96,
-    "reason": "Stagiu perfect aliniat: proiectarea și antrenarea rețelelor neuronale pentru ADAS, cu computer vision și limbaj."
+    "matchPercentage": 95,
+    "reason": "Stagiu perfect aliniat: antrenarea de rețele neuronale pentru viziune, radar, lidar și limbaj în soluții AI pentru ADAS."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "computer vision",
+      "programare performanta"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol de working student pentru componente AI și computer vision embedded, la nivel de student, cu sarcini de dezvoltare optimizată."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:18:01.518Z",
+    "status": "scraped",
+    "tags": [
+      "programare web",
+      "inginerie software"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rol junior de dezvoltare web .NET pentru studenți și absolvenți, cu sarcini de implementare și testare care folosesc direct competențele mele."
   },
   {
     "url": "https://tss-yonder.com/job/17829",
@@ -29,11 +65,46 @@
     "date": "2026-11-17T14:19:13Z",
     "status": "tested",
     "tags": [
-      "programare web",
-      "web design"
+      "programare web"
     ],
-    "matchPercentage": 90,
-    "reason": "Poziție de trainee full-stack developer, domeniu și nivel aliniate direct cu programarea web."
+    "matchPercentage": 88,
+    "reason": "Trainee full-stack developer utilizează direct competențele de programare web la început de carieră."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "LLM",
+      "cloud"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rol de dezvoltare AI în cloud cu agenți LLM, folosind direct sistemele generative și arhitectura cloud."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:48:04Z",
+    "status": "tested",
+    "tags": [
+      "computer vision",
+      "machine learning"
+    ],
+    "matchPercentage": 88,
+    "reason": "Pozitia de working student pentru componente AI si computer vision in ADAS se potriveste direct si ca domeniu, si ca nivel."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3294742",
@@ -43,68 +114,66 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-26T15:51:19.758Z",
+    "date": "2026-11-27T15:39:53.691Z",
     "status": "scraped",
     "tags": [
       "design patterns",
       "inginerie software"
     ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltare C#/.NET cu SOLID, design patterns și arhitecturi software, la sub 3 ani experiență."
+    "matchPercentage": 85,
+    "reason": "Dezvoltarea C#/.NET cu design patterns, arhitectura si Git sub 3 ani se potriveste direct cu ingineria software."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1",
+    "title": "CDSClear Java Software Development Engineer in Test",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:27:26.827Z",
     "status": "scraped",
     "tags": [
-      "Computer vision",
-      "performanță"
+      "testare software",
+      "inginerie software"
     ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltare de componente AI și computer vision embedded pentru ADAS, folosind viziunea artificială și programarea orientată spre performanță."
+    "matchPercentage": 85,
+    "reason": "Inginer software tester Java la nivel de intrare, cu sarcini de testare, verificare și validare a codului."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159377359-azure-cloud-developer-with-python",
-    "title": "Azure Cloud Developer with Python",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://apply.workable.com/j/FACE37AC40",
+    "title": "Manual QA Engineer (Mid-Level)",
+    "company": "SEDONA DIGITAL S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:22:32.631Z",
     "status": "scraped",
     "tags": [
-      "Cloud",
-      "Big Data"
+      "testare software",
+      "calitate software"
     ],
-    "matchPercentage": 88,
-    "reason": "Dezvoltator Azure Python pentru pipeline-uri de procesare a datelor in cloud, domeniu direct relevant si fara cerinte de senioritate."
+    "matchPercentage": 82,
+    "reason": "Rol mid-level de testare software manuala, domeniu direct in verificare, validare si calitate la o firma cu servicii cloud, securitate si AI."
   },
   {
-    "url": "https://jobs.borgdesign.ro/#pos_2",
-    "title": "Junior Web Developer",
-    "company": "BORG DESIGN SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3340124",
+    "title": "PROGRAMATOR DE SISTEM INFORMATIC",
+    "company": "SOBIS AP S.R.L.",
     "location": [
-      "București",
+      "SIBIU",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:32:12.727Z",
+    "date": "2026-11-27T16:11:24.921Z",
     "status": "scraped",
     "tags": [
       "programare web",
-      "OOP"
+      "inginerie software"
     ],
-    "matchPercentage": 86,
-    "reason": "Poziție junior de dezvoltare web .NET pentru studenți/absolvenți, cu OOP, C# și testare, potrivită competenței mele de programare web."
+    "matchPercentage": 78,
+    "reason": "Dezvoltarea .NET, API ASP.NET Core si Angular la nivel medie foloseste direct programarea web si ingineria software."
   },
   {
     "url": "https://jobs.borgdesign.ro/#pos_7",
@@ -115,48 +184,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:32:12.727Z",
+    "date": "2026-11-27T16:18:01.518Z",
     "status": "scraped",
     "tags": [
-      "machine learning",
-      "programare web"
+      "programare web",
+      "testare software"
     ],
-    "matchPercentage": 85,
-    "reason": "Titlul de Junior Developer AI vizează direct machine learning, iar nivelul junior se potrivește, chiar dacă descrierea pune accent pe web .NET."
-  },
-  {
-    "url": "https://apply.workable.com/j/FACE37AC40",
-    "title": "Manual QA Engineer (Mid-Level)",
-    "company": "SEDONA DIGITAL S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:37:15.636Z",
-    "status": "scraped",
-    "tags": [
-      "Testare software",
-      "Calitate software"
-    ],
-    "matchPercentage": 82,
-    "reason": "Poziție de QA Engineer mid-level care folosește direct competențele de testare software, verificare și validare, într-o companie cu profil software, cloud și AI."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
-    "title": "PROGRAMATOR AJUTOR",
-    "company": "SOBIS AP S.R.L.",
-    "location": [
-      "SIBIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:26:02.478Z",
-    "status": "scraped",
-    "tags": [
-      "inginerie software"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de programator ajutor la nivel entry-level în dezvoltare software, cu sub 3 ani experiență, deși descrierea sarcinilor e sumară."
+    "matchPercentage": 78,
+    "reason": "Nivelul junior este potrivit, iar sarcinile descrise sunt dezvoltare web .NET și testare, nu sarcini AI, deci potrivirea vine din programarea web."
   },
   {
     "url": "https://jobs.borgdesign.ro/#pos_10",
@@ -167,14 +202,84 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:32:12.727Z",
+    "date": "2026-11-27T16:18:01.518Z",
     "status": "scraped",
     "tags": [
       "programare web",
-      "data mining"
+      "inginerie software"
     ],
     "matchPercentage": 76,
-    "reason": "Rol de dezvoltator SQL/web la nivel de junior, cu baze de date și aplicații .NET, relevant pentru competențele mele de date și programare web."
+    "reason": "Poziția vizează dezvoltare .NET și SQL Server la nivel de student sau absolvent, competențe parțial acoperite de programarea web și ingineria software."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240516",
+    "title": "Embedded Software Developer for Cryptography Testing",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "criptografie",
+      "testare software"
+    ],
+    "matchPercentage": 72,
+    "reason": "Testarea criptografiei in software embedded se potriveste direct cu competentele de criptografie si testare software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer",
+    "title": "Automation &amp; Robotics Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "roboti intelligenti",
+      "inginerie software"
+    ],
+    "matchPercentage": 70,
+    "reason": "Ingineria de automatizare si robotica are potrivire partiala cu competentele de roboti inteligenti si inginerie software."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153523769",
+    "title": "Automation și Robotics Engineer",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Blaj",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:08:04Z",
+    "status": "tested",
+    "tags": [
+      "roboti intelligenti",
+      "inginerie software"
+    ],
+    "matchPercentage": 70,
+    "reason": "Ingineria de automatizare si robotica are potrivire partiala cu competentele de roboti inteligenti si inginerie software."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405976",
+    "title": "PROGRAMATOR AJUTOR",
+    "company": "SOBIS AP S.R.L.",
+    "location": [
+      "SIBIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:11:24.921Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie software"
+    ],
+    "matchPercentage": 65,
+    "reason": "Descrierea lipseste, dar titlul de programator ajutor cu sub 3 ani experienta indica un rol software entry-level, deci potrivire partiala."
   },
   {
     "url": "https://apply.workable.com/j/982F563B19",
@@ -185,14 +290,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:34:14.977Z",
+    "date": "2026-11-27T16:19:52.871Z",
+    "status": "scraped",
+    "tags": [
+      "DevOps",
+      "cloud"
+    ],
+    "matchPercentage": 65,
+    "reason": "Candidatura spontană acoperă software development, DevOps, cloud și date, domenii din competențele mele, dar fără nivel sau sarcini precizate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
+    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
       "inginerie software",
-      "DevOps"
+      "performanta"
     ],
-    "matchPercentage": 75,
-    "reason": "Aplicare spontană pentru profiluri software, DevOps, cloud și date, exact domeniile mele, fără cerințe de senior."
+    "matchPercentage": 65,
+    "reason": "Dezvoltarea de functii ADAS embedded se potriveste partial cu ingineria software si programarea orientata spre performanta."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150104699-working-student-production-it",
@@ -202,67 +325,12 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
-      "DevOps",
-      "administrare sisteme"
+      "administrarea sistemelor"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol de working student în IT de producție cu infrastructură, aproape de competențele mele de cloud și DevOps."
-  },
-  {
-    "url": "https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe",
-    "title": "Clinical Database Programmer",
-    "company": "ALIMENTI ITALIA MARKET S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:44:59Z",
-    "status": "tested",
-    "tags": [
-      "Testare software",
-      "Inginerie software"
-    ],
-    "matchPercentage": 70,
-    "reason": "Implică dezvoltare, testare și integrare de date în sisteme software, cu explorare de soluții AI, la un nivel aparent junior/mid."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
-    "title": "Working Student – Technical Project Administration",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "management proiecte",
-      "calitate software"
-    ],
-    "matchPercentage": 68,
-    "reason": "Administrarea tehnică de proiecte folosește management de proiecte software, configurare și calitate, competențe din planul meu de învățământ."
-  },
-  {
-    "url": "https://jobs-cee.pwc.com/ce/en/job/767931WD",
-    "title": "Database Administrator",
-    "company": "HANDRA PWC S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:30:27Z",
-    "status": "tested",
-    "tags": [
-      "Cloud",
-      "DevOps"
-    ],
-    "matchPercentage": 65,
-    "reason": "Lucrează în echipa de infrastructură cloud cu automatizări și securitate, fără cerințe de senioritate, dar sarcinile rămân în principal de administrare SQL Server."
+    "matchPercentage": 60,
+    "reason": "Rolul de working student în IT de producție implică infrastructură IT, domeniu parțial relevant pentru competențele mele de administrare a sistemelor."
   }
 ]
